@@ -8,4 +8,32 @@ Collective intelligence (CI) has emerged as a cornerstone for advancing toward A
 ![GitHub last commit](https://img.shields.io/github/last-commit/d-andelions/awesome-LLM-Driven-Collective-Intelligence?color=green)
 <!-- <a href="https://arxiv.org/abs/2509.02350" target="_blank"><img src="https://img.shields.io/badge/arXiv-2509.02350-009688.svg" alt="arXiv" /></a> -->
 
+## 📂 Contents
+> 
+- [Evolution of Collective Intelligence](#evolution-of-collective-intelligence)
+- [Foundation-Oriented CI](#foundation-oriented-ci)
+  - [Data-Level Enhancement](#data-level-enhancement)
+  - [Model-Level Enhancement](#model-level-enhancement)
+  - [Inference-Level Enhancement](#inference-level-enhancement)
+- [Application-Oriented CI](#application-oriented-ci)
+  - [Scientific Discovery & Autonomous Research](#scientific-discovery)
+  - [Embodied Intelligence](#embodied-intelligence)
+  - [Social Science Research](#social-science-research)
+  - [Auto-Programming](#auto-programming)
+  - [GUI Operations](#gui-operations)
+  - [Game Theory & Interactive Games](#game-theory--interactive-games)
+- [Future Challenges](#future-challenges)
+- [Contributing](#contributing)
+- [License](#license)
+
+## 🧬Evolution of Collective Intelligence
 ![CI Framework](https://github.com/d-andelions/awesome-LLM-Driven-Collective-Intelligence/blob/main/figs/1.png)
+The **Collective Intelligence 1.0 Era** established the core principles of emergent group behavior through bio-inspired algorithms. Early works have demonstrated that complex group behaviors can emerge from simple interaction rules.
+
+The **Collective Intelligence 2.0 Era** marked a significant advancement through the development of specialized multi-agent architectures. Researches on adaptive coordination mechanisms and hybrid collective algorithms enabled more sophisticated collaborative capabilities.
+
+Currently, we are witnessing the emergence and popularity of the **Collective Intelligence 3.0 Era**, where breakthroughs in Large Language Models (LLMs) are revolutionizing the collective intelligence field. Generally, these LLM-powered entities will achieve collective intelligence from the following unique perspectives: 
+> 1. the LLM perspective, which investigates how collaboration at various levels enhances the models themselves; 
+2. the collective-intelligence perspective, which analyzes the composition of participating entities and the nature of their interactions. Driven by LLMs, it is capable of productively yield the effect denoted by _Collectively to Enhance Intelligence_.
+
+In the future, as artificial intelligence continues to progress, it will encounter more intricate and even unexplored real-world tasks and scenarios. Thus, there is an urgent necessity to transition to the **Collective Intelligence 4.0 Era**, whose core is the establishment of a novel paradigm known as _Collectively to Create Intelligence_."
