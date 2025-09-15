@@ -27,7 +27,7 @@ Collective intelligence (CI) has emerged as a cornerstone for advancing toward A
 - [License](#license)
 
 <details>
-## 🧬Evolution of Collective Intelligence
+<summary>## 🧬Evolution of Collective Intelligence</summary>
 ![CI Framework](https://github.com/d-andelions/awesome-LLM-Driven-Collective-Intelligence/blob/main/figs/1.png)
 The **Collective Intelligence 1.0 Era** established the core principles of emergent group behavior through bio-inspired algorithms. Early works have demonstrated that complex group behaviors can emerge from simple interaction rules.
 
