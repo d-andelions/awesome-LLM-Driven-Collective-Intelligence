@@ -129,3 +129,6 @@ In the future, as artificial intelligence continues to progress, it will encount
 > Swarm intelligence and evolutionary computation [![arXiv](https://img.shields.io/badge/sciencedirect-journal-009688.svg)](https://www.sciencedirect.com/journal/swarm-and-evolutionary-computation) <br>
 > Distributed algorithms for multi-robot observation of multiple moving targets [![arXiv](https://img.shields.io/badge/springer-10.1023-009688.svg)](https://link.springer.com/article/10.1023/A:1015256330750) <br>
 > Wireless sensor network survey [![arXiv](https://img.shields.io/badge/sciencedirect-article-009688.svg)](https://www.sciencedirect.com/science/article/pii/S1389128608001254) <br>
+
+## 📘Collective Intelligence 3.0 Era
+![Figure 4](https://github.com/d-andelions/awesome-LLM-Driven-Collective-Intelligence/blob/main/figs/4.png)
