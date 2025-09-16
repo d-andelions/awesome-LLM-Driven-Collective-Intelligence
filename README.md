@@ -68,3 +68,10 @@ In the future, as artificial intelligence continues to progress, it will encount
 > Training language models with memory augmentation [![arXiv](https://img.shields.io/badge/arXiv-2205.12674-009688.svg)](https://arxiv.org/abs/2205.12674) <br>
 > Augmenting language models with longterm memory [![arXiv](https://img.shields.io/badge/arXiv-2306.07174-009688.svg)](https://arxiv.org/abs/2306.07174) <br>
 > Lost in the middle: How language models use long contexts [![arXiv](https://img.shields.io/badge/arXiv-2307.03172-009688.svg)](https://arxiv.org/abs/2307.03172) <br>
+
+**Parameter-Efficient Fine-Tuning (PEFT):** PEFT is a critical technique for optimizing LLMs by reducing the trainable parameter number and GPU memory overhead, addressing the infeasibility of full fine-tuning in resourceconstrained environments.
+> Parameter-efficient fine-tuning methods for pretrained language models: A critical review and assessment [![arXiv](https://img.shields.io/badge/arXiv-2312.12148-009688.svg)](https://arxiv.org/abs/2312.12148) <br>
+> Lora: Low-rank adaptation of large language models [![arXiv](https://img.shields.io/badge/arXiv-2106.09685-009688.svg)](https://arxiv.org/abs/2106.09685) <br>
+
+**LLM-Based Agents:** LLM-based agents represent a transformative evolution of LLMs, enabling them to function as autonomous entities capable of perceiving environments, reasoning, and executing actions.
+> Toolformer: Language models can teach themselves to use tools [![arXiv](https://img.shields.io/badge/arXiv-2302.04761-009688.svg)](https://arxiv.org/abs/2302.04761) <br>
