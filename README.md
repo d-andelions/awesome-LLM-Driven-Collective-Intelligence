@@ -12,6 +12,7 @@ Collective intelligence (CI) has emerged as a cornerstone for advancing toward A
 > 
 - [Evolution of Collective Intelligence](#evolution-of-collective-intelligence)
 - [Key Techniques of Large Language Models](#key-techniques-of-large-language-models)
+- [LLM-based Collective Intelligence](#llm-based-collective-intelligence)
 - [Collective Intelligence 1.0 and 2.0 Era](#collective-intelligence-1.0-and-2.0-era)
   - [Data-Level Enhancement](#data-level-enhancement)
   - [Model-Level Enhancement](#model-level-enhancement)
@@ -75,3 +76,7 @@ In the future, as artificial intelligence continues to progress, it will encount
 
 **LLM-Based Agents:** LLM-based agents represent a transformative evolution of LLMs, enabling them to function as autonomous entities capable of perceiving environments, reasoning, and executing actions.
 > Toolformer: Language models can teach themselves to use tools [![arXiv](https://img.shields.io/badge/arXiv-2302.04761-009688.svg)](https://arxiv.org/abs/2302.04761) <br>
+
+## 📙LLM-based Collective Intelligence
+![CI Framework](https://github.com/d-andelions/awesome-LLM-Driven-Collective-Intelligence/blob/main/figs/3.png)
+> Collective intelligence [![arXiv](https://img.shields.io/badge/springer-10.1007-009688.svg)](https://link.springer.com/article/10.1007/s12599-010-0114-8) <br>
