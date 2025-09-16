@@ -55,4 +55,8 @@ In the future, as artificial intelligence continues to progress, it will encount
 > Proximal policy optimization algorithms <a href="https://arxiv.org/abs/1707.06347"><img src="https://img.shields.io/badge/arXiv-1707.06347-009688.svg" alt="arXiv" /></a> <br>
 
 **Prompt Engineering:** By designing input text (prompts), it guides LLMs to produce desired responses, leveraging the model’s contextual understanding. To activate task-specific reasoning paths, a series of prompt optimization frameworks is proposed.
-> 
+> Openprompt: An open-source framework for prompt-learning [![arXiv](https://img.shields.io/badge/arXiv-1707.06347-009688.svg)](https://arxiv.org/abs/1707.06347)
+> Active prompting with chain-of-thought for large language models [![arXiv](https://img.shields.io/badge/arXiv-2302.12246-009688.svg)](https://arxiv.org/abs/2302.12246)
+> Chain-of-thought prompting elicits reasoning in large language models [![arXiv](https://img.shields.io/badge/arXiv-2201.11903-009688.svg)](https://arxiv.org/abs/2201.11903)
+> Towards understanding chain-of-thought prompting: An empirical study of what matters [![arXiv](https://img.shields.io/badge/arXiv-2212.10001-009688.svg)](https://arxiv.org/abs/2212.10001)
+> Tree of thoughts: Deliberate problem solving with large language models [![arXiv](https://img.shields.io/badge/arXiv-2212.10001-009688.svg)](https://arxiv.org/abs/2212.10001)
