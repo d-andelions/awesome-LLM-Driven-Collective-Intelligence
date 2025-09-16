@@ -132,3 +132,132 @@ In the future, as artificial intelligence continues to progress, it will encount
 
 ## 📘Collective Intelligence 3.0 Era
 ![Figure 4](https://github.com/d-andelions/awesome-LLM-Driven-Collective-Intelligence/blob/main/figs/4.png)
+### 📖Data-Level Enhancement
+**Same LLM Driven:**
+> **Single-Round Role-Playing Interaction**
+> Role play with large language models [![arXiv](https://img.shields.io/badge/arXiv-2305.16367-009688.svg)](https://arxiv.org/abs/2305.16367) <br>
+> Picle: Eliciting diverse behaviors from large language models with persona in-context learning [![arXiv](https://img.shields.io/badge/arXiv-2405.02501-009688.svg)](https://arxiv.org/abs/2405.02501) <br>
+> On the steerability of large language models toward data-driven personas [![arXiv](https://img.shields.io/badge/arXiv-2311.04978-009688.svg)](https://arxiv.org/abs/2311.04978) <br>
+> Synthetic dialogue dataset generation using llm agents [![arXiv](https://img.shields.io/badge/arXiv-2401.17461-009688.svg)](https://arxiv.org/abs/2401.17461) <br>
+
+> **Multi-Round Role-Playing Interaction**
+> Unleashing the emergent cognitive synergy in large language models: A task-solving agent through multi-persona self-collaboration [![arXiv](https://img.shields.io/badge/arXiv-2307.05300-009688.svg)](https://arxiv.org/abs/2307.05300) <br>
+> Diasynth: Synthetic dialogue generation framework for low resource dialogue applications [![arXiv](https://img.shields.io/badge/arXiv-2409.19020-009688.svg)](https://arxiv.org/abs/2409.19020) <br>
+> Psydial: Personality-based synthetic dialogue generation using large language models [![arXiv](https://img.shields.io/badge/arXiv-2404.00930-009688.svg)](https://arxiv.org/abs/2404.00930) <br>
+> Erabal: Enhancing role-playing agents through boundary-aware learning [![arXiv](https://img.shields.io/badge/arXiv-2409.14710-009688.svg)](https://arxiv.org/abs/2409.14710) <br>
+> Reviewinstruct: A review-driven multi-turn conversations generation method for large language models [![arXiv](https://img.shields.io/badge/arXiv-2505.11010-009688.svg)](https://arxiv.org/abs/2505.11010) <br>
+
+**Different LLM Driven:**
+> **Centralized Control**
+> Synthesizing post-training data for llms through multi-agent simulation [![arXiv](https://img.shields.io/badge/arXiv-2410.14251-009688.svg)](https://arxiv.org/abs/2410.14251) <br>
+> Dflow: Diverse dialogue flow simulation with large language models [![arXiv](https://img.shields.io/badge/arXiv-2410.14853-009688.svg)](https://arxiv.org/abs/2410.14853) <br>
+
+> **Decentralized Control**
+> Scaling synthetic data creation with 1,000,000,000 personas [![arXiv](https://img.shields.io/badge/arXiv-2406.20094-009688.svg)](https://arxiv.org/abs/2406.20094) <br>
+> Mag-v: A multi-agent framework for synthetic data generation and verification [![arXiv](https://img.shields.io/badge/arXiv-2412.04494-009688.svg)](https://arxiv.org/abs/2412.04494) <br>
+> The fellowship of the llms: Multi-agent workflows for synthetic preference optimization dataset generation [![arXiv](https://img.shields.io/badge/arXiv-2408.08688-009688.svg)](https://arxiv.org/abs/2408.08688) <br>
+> Language games as the pathway to artificial superhuman intelligence [![arXiv](https://img.shields.io/badge/arXiv-2501.18924-009688.svg)](https://arxiv.org/abs/2501.18924) <br>
+
+### 📖Model-Level Enhancement
+**Model Routing:**
+> **Routing for Cost Reduction**
+> Frugalgpt: How to use large language models while reducing cost and improving performance [![arXiv](https://img.shields.io/badge/arXiv-2305.05176-009688.svg)](https://arxiv.org/abs/2305.05176) <br>
+> Automix: Automatically mixing language models [![arXiv](https://img.shields.io/badge/arXiv-2310.12963-009688.svg)](https://arxiv.org/abs/2310.12963) <br>
+> Hybrid llm: Cost-efficient and quality-aware query routing [![arXiv](https://img.shields.io/badge/arXiv-2404.14618-009688.svg)](https://arxiv.org/abs/2404.14618) <br>
+> Mixllm: Dynamic routing in mixed large language models [![arXiv](https://img.shields.io/badge/arXiv-2502.18482-009688.svg)](https://arxiv.org/abs/2502.18482) <br>
+> Swiftsage: A generative agent with fast and slow thinking for complex interactive tasks [![arXiv](https://img.shields.io/badge/arXiv-2305.17390-009688.svg)](https://arxiv.org/abs/2305.17390) <br>
+> Llm-powered hierarchical language agent for real-time humanai coordination [![arXiv](https://img.shields.io/badge/arXiv-2312.15224-009688.svg)](https://arxiv.org/abs/2312.15224) <br>
+> Routoo: Learning to route to large language models effectively [![arXiv](https://img.shields.io/badge/arXiv-2401.13979-009688.svg)](https://arxiv.org/abs/2401.13979) <br>
+> Routellm: Learning to route llms with preference data [![arXiv](https://img.shields.io/badge/arXiv-2406.18665-009688.svg)](https://arxiv.org/abs/2406.18665) <br>
+> Llm bandit: Cost-efficient llm generation via preferenceconditioned dynamic routing [![arXiv](https://img.shields.io/badge/arXiv-2502.02743-009688.svg)](https://arxiv.org/abs/2502.02743) <br>
+
+> **Routing for Performance Enhancement**
+> Llm-blender: Ensembling large language models with pairwise ranking and generative fusion [![arXiv](https://img.shields.io/badge/arXiv-2306.02561-009688.svg)](https://arxiv.org/abs/2306.02561) <br>
+> Loraretriever: Input-aware lora retrieval and composition for mixed tasks in the wild [![arXiv](https://img.shields.io/badge/arXiv-2402.09997-009688.svg)](https://arxiv.org/abs/2402.09997) <br>
+> Large language model routing with benchmark datasets [![arXiv](https://img.shields.io/badge/arXiv-2309.15789-009688.svg)](https://arxiv.org/abs/2309.15789) <br>
+> Routing to the expert: Efficient reward-guided ensemble of large language models [![arXiv](https://img.shields.io/badge/arXiv-2311.08692-009688.svg)](https://arxiv.org/abs/2311.08692) <br>
+> Universal model routing for efficient LLM inference [![arXiv](https://img.shields.io/badge/arXiv-2502.08773-009688.svg)](https://arxiv.org/abs/2502.08773) <br>
+> Capability instruction tuning: A new paradigm for dynamic LLM routing [![arXiv](https://img.shields.io/badge/arXiv-2502.17282-009688.svg)](https://arxiv.org/abs/2502.17282) <br>
+> EmbedLLM: Learning compact representations of large language models [![arXiv](https://img.shields.io/badge/arXiv-2410.02223-009688.svg)](https://arxiv.org/abs/2410.02223) <br>
+> Routerbench: A benchmark for multi-LLM routing system [![arXiv](https://img.shields.io/badge/arXiv-2403.12031-009688.svg)](https://arxiv.org/abs/2403.12031) <br>
+> Routerdc: Query-based router by dual contrastive learning for assembling large language models [![arXiv](https://img.shields.io/badge/arXiv-2409.19886-009688.svg)](https://arxiv.org/abs/2409.19886) <br>
+> Graphrouter: A graph-based router for LLM selections [![arXiv](https://img.shields.io/badge/arXiv-2410.03834-009688.svg)](https://arxiv.org/abs/2410.03834) <br>
+> Learning to decode collaboratively with multiple language models [![arXiv](https://img.shields.io/badge/arXiv-2403.03870-009688.svg)](https://arxiv.org/abs/2403.03870) <br>
+> Citer: Collaborative inference for efficient large language model decoding with token-level routing [![arXiv](https://img.shields.io/badge/arXiv-2502.01976-009688.svg)](https://arxiv.org/abs/2502.01976) <br>
+
+**Model Merging:**
+> **Single-task Homogeneous Merging**
+> Emr-merging: Tuning-free high-performance model merging[![arXiv](https://img.shields.io/badge/arXiv-2405.17461-009688.svg)](https://arxiv.org/abs/2405.17461) <br>
+> Editing models with task arithmetic merging[![arXiv](https://img.shields.io/badge/arXiv-2212.04089-009688.svg)](https://arxiv.org/abs/2212.04089) <br>
+> Evolutionary optimization of model merging recipes [![arXiv](https://img.shields.io/badge/arXiv-2403.13187-009688.svg)](https://arxiv.org/abs/2403.13187) <br>
+> Representation surgery for multi-task model merging [![arXiv](https://img.shields.io/badge/arXiv-2402.02705-009688.svg)](https://arxiv.org/abs/2402.02705) <br>
+> Merging multi-task models via weight-ensembling mixture of experts [![arXiv](https://img.shields.io/badge/arXiv-2402.00433-009688.svg)](https://arxiv.org/abs/2402.00433) <br>
+> Dynamic model merging with mixture of weights [![arXiv](https://img.shields.io/badge/IEEE-10900479-009688.svg)](https://ieeexplore.ieee.org/document/10900479) <br>
+> Twinmerging: Dynamic integration of modular expertise in model merging [![arXiv](https://img.shields.io/badge/arXiv-2406.15479-009688.svg)](https://arxiv.org/abs/2406.15479) <br>
+> Less is more: Efficient model merging with binary task switch [![arXiv](https://img.shields.io/badge/arXiv-2412.00054-009688.svg)](https://arxiv.org/abs/2412.00054) <br>
+> Lora soups: Merging loras for practical skill composition tasks [![arXiv](https://img.shields.io/badge/arXiv-2410.13025-009688.svg)](https://arxiv.org/abs/2410.13025) <br>
+> Model merging with svd to tie the knots [![arXiv](https://img.shields.io/badge/arXiv-2410.19735-009688.svg)](https://arxiv.org/abs/2410.19735) <br>
+> Merging loras like playing lego: Pushing the modularity of lora to extremes through rank-wise clustering [![arXiv](https://img.shields.io/badge/arXiv-2409.16167-009688.svg)](https://arxiv.org/abs/2409.16167) <br>
+> Lori: Reducing cross-task interference in multi-task low-rank adaptation [![arXiv](https://img.shields.io/badge/arXiv-2504.07448-009688.svg)](https://arxiv.org/abs/2504.07448) <br>
+> Experts weights averaging: A new general training scheme for vision transformers [![arXiv](https://img.shields.io/badge/arXiv-2308.06093-009688.svg)](https://arxiv.org/abs/2308.06093) <br>
+> Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time rank-wise clustering [![arXiv](https://img.shields.io/badge/arXiv-2203.05482-009688.svg)](https://arxiv.org/abs/2203.05482) <br>
+> Model ratatouille: Recycling diverse models for out-of-distribution generalization [![arXiv](https://img.shields.io/badge/arXiv-2212.10445-009688.svg)](https://arxiv.org/abs/2212.10445) <br>
+
+> **Multi-task Homogeneous Merging**
+> Editing models with task arithmetic [![arXiv](https://img.shields.io/badge/arXiv-2212.04089-009688.svg)](https://arxiv.org/abs/2212.04089) <br>
+> Evolutionary optimization of model merging recipes [![arXiv](https://img.shields.io/badge/arXiv-2403.13187-009688.svg)](https://arxiv.org/abs/2403.13187) <br>
+> Representation surgery for multi-task model merging [![arXiv](https://img.shields.io/badge/arXiv-2402.02705-009688.svg)](https://arxiv.org/abs/2402.02705) <br>
+> Merging multi-task models via weight-ensembling mixture of experts [![arXiv](https://img.shields.io/badge/arXiv-2402.00433-009688.svg)](https://arxiv.org/abs/2402.00433) <br>
+> Dynamic model merging with mixture of weights [![arXiv](https://img.shields.io/badge/IEEE-10900479-009688.svg)](https://ieeexplore.ieee.org/document/10900479) <br>
+> EMR-Merging: Tuning-free high-performance model merging [![arXiv](https://img.shields.io/badge/arXiv-2405.17461-009688.svg)](https://arxiv.org/abs/2405.17461) <br>
+> Twinmerging: Dynamic integration of modular expertise in model merging [![arXiv](https://img.shields.io/badge/arXiv-2406.15479-009688.svg)](https://arxiv.org/abs/2406.15479) <br>
+> Less is more: Efficient model merging with binary task switch [![arXiv](https://img.shields.io/badge/arXiv-2412.00054-009688.svg)](https://arxiv.org/abs/2412.00054) <br>
+> Lora soups: Merging loras for practical skill composition tasks [![arXiv](https://img.shields.io/badge/arXiv-2410.13025-009688.svg)](https://arxiv.org/abs/2410.13025) <br>
+> Model merging with svd to tie the knots [![arXiv](https://img.shields.io/badge/arXiv-2410.19735-009688.svg)](https://arxiv.org/abs/2410.19735) <br>
+> Merging loras like playing lego: Pushing the modularity of lora to extremes through rank-wise clustering [![arXiv](https://img.shields.io/badge/arXiv-2409.16167-009688.svg)](https://arxiv.org/abs/2409.16167) <br>
+> Lori: Reducing cross-task interference in multi-task low-rank adaptation [![arXiv](https://img.shields.io/badge/arXiv-2504.07448-009688.svg)](https://arxiv.org/abs/2504.07448) <br>
+
+**Model Ensemble:**
+> **Multi-task Heterogeneous Merging**
+
+> **Token-level Ensemble**
+
+> **Span-level Ensemble**
+
+> **Response-level Ensemble**
+
+
+### 📖Inference-Level Enhancement
+**Self-driven Enhancement:**
+**Cooperation-driven Enhancement:**
+**Competition-involved Enhancement:**
+**Self-Organizing Collective Optimization:**
+
+
+## 📙LLM Driven Application-Oriented Collective Intelligence
+![Figure 5](https://github.com/d-andelions/awesome-LLM-Driven-Collective-Intelligence/blob/main/figs/5.png)
+### 📖Scientific Discovery and Autonomous Research
+**Scientific Discovery:**
+**Autonomous Research:**
+
+### 📖Embodied Intelligence Research
+**Centralized Control Paradigm:**
+**Decentralized Interactive Paradigm:**
+
+### 📖Social Science Research
+**Scope of Simulation:**
+**Application of Simulation:**
+
+### 📖Auto-Programming
+**Foundation-Oriented Programming:**
+**Application-Oriented Programming:**
+
+### 📖GUI Operations
+**Prompting-Based Methods:**
+**Tuning-Based Methods:**
+
+### 📖Game Theory and Interactive Games
+**Application in Game Theory:**
+**Application in Interactive Games:**
+
+## 📗Collective Intelligence 4.0 Era
