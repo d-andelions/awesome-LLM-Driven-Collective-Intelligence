@@ -115,7 +115,7 @@ In the future, as artificial intelligence continues to progress, it will encount
 > Tree of thoughts: Deliberate problem solving with large language models [![arXiv](https://img.shields.io/badge/arXiv-2212.10001-009688.svg)](https://arxiv.org/abs/2212.10001) <br>
 > Generative agents: Interactive simulacra of human behavior [![arXiv](https://img.shields.io/badge/arXiv-2304.03442-009688.svg)](https://arxiv.org/abs/2304.03442) <br>
 
-## Collective Intelligence 1.0 and 2.0 Era
+## 📗Collective Intelligence 1.0 and 2.0 Era
 **Collective Intelligence 1.0 Era:** Complex group behaviors can emerge from simple interaction rules.
 > Swarm intelligence: from natural to artificial systems [![arXiv](https://img.shields.io/badge/Oxford-40811-009688.svg)](https://academic.oup.com/book/40811) <br>
 > Ant colony optimization: a new metaheuristic [![arXiv](https://img.shields.io/badge/IEEE-782657-009688.svg)](https://ieeexplore.ieee.org/document/782657) <br>
