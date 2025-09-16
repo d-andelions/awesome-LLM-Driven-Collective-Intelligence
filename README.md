@@ -40,7 +40,7 @@ In the future, as artificial intelligence continues to progress, it will encount
 
 ## 📘Key Techniques of Large Language Models
 **Pre-Training:** Pre-training serves as the foundational stage in LLM development, where models acquire general language understanding capabilities by predicting the next token from massive unlabeled text corpora.
-> A Law of Next-Token Prediction in Large Language Models <a href="https://arxiv.org/abs/2408.13442" target="_blank"><img src="https://img.shields.io/badge/arXiv-2408.13442-009688.svg" alt="arXiv" /></a>
+> A Law of Next-Token Prediction in Large Language Models <a href="https://arxiv.org/abs/2408.13442"target="_blank"><img src="https://img.shields.io/badge/arXiv-2408.13442-009688.svg" alt="arXiv" /></a>
 > Efficient training of language models with compact and consistent next token distributions <a href="https://arxiv.org/abs/2407.02819"target="_blank"><img src="https://img.shields.io/badge/arXiv-2407.02819-009688.svg" alt="arXiv" /></a>
 > Better & faster large language models via multi-token prediction <a href="https://arxiv.org/abs/2404.19737"target="_blank"><img src="https://img.shields.io/badge/arXiv-2404.19737-009688.svg" alt="arXiv" /></a>
 > A clip-powered framework for robust and generalizable data selection <a href="https://arxiv.org/abs/2410.11215"target="_blank"><img src="https://img.shields.io/badge/arXiv-2410.11215-009688.svg" alt="arXiv" /></a>
