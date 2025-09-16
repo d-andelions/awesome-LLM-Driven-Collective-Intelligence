@@ -60,3 +60,11 @@ In the future, as artificial intelligence continues to progress, it will encount
 > Chain-of-thought prompting elicits reasoning in large language models [![arXiv](https://img.shields.io/badge/arXiv-2201.11903-009688.svg)](https://arxiv.org/abs/2201.11903) <br>
 > Towards understanding chain-of-thought prompting: An empirical study of what matters [![arXiv](https://img.shields.io/badge/arXiv-2212.10001-009688.svg)](https://arxiv.org/abs/2212.10001) <br>
 > Tree of thoughts: Deliberate problem solving with large language models [![arXiv](https://img.shields.io/badge/arXiv-2212.10001-009688.svg)](https://arxiv.org/abs/2212.10001) <br>
+
+**Tool Use:** Tool use refers to techniques that enable LLMs to use external tools.
+> Tool learning with large language models: A survey [![arXiv](https://img.shields.io/badge/arXiv-2405.17935-009688.svg)](https://arxiv.org/abs/2405.17935) <br>
+
+**Memory Mechanism:** The memory mechanism in LLMs refers to the framework designed to accumulate knowledge, process historical information, and retrieve relevant context to support decision-making and response generation, mimicking human cognitive memory functions.
+> Training language models with memory augmentation [![arXiv](https://img.shields.io/badge/arXiv-2205.12674-009688.svg)](https://arxiv.org/abs/2205.12674) <br>
+> Augmenting language models with longterm memory [![arXiv](https://img.shields.io/badge/arXiv-2306.07174-009688.svg)](https://arxiv.org/abs/2306.07174) <br>
+> Lost in the middle: How language models use long contexts [![arXiv](https://img.shields.io/badge/arXiv-2307.03172-009688.svg)](https://arxiv.org/abs/2307.03172) <br>
