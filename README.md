@@ -110,4 +110,22 @@ In the future, as artificial intelligence continues to progress, it will encount
 
 ## 📙LLM-based Collective Intelligence
 ![CI Framework](https://github.com/d-andelions/awesome-LLM-Driven-Collective-Intelligence/blob/main/figs/3.png)
-> Collective intelligence [![arXiv](https://img.shields.io/badge/springer-10.1007-009688.svg)](https://link.springer.com/article/10.1007/s12599-010-0114-8) <br>
+> Donod: Robust and generalizable instruction fine-tuning for llms via modelintrinsic dataset pruning [![arXiv](https://img.shields.io/badge/arXiv-2504.14810v1-009688.svg)](https://arxiv.org/html/2504.14810v1) <br>
+> Switch transformers: Scaling to trillion parameter models with simple and efficient sparsity [![arXiv](https://img.shields.io/badge/arXiv-2101.03961-009688.svg)](https://arxiv.org/abs/2101.03961) <br>
+> Tree of thoughts: Deliberate problem solving with large language models [![arXiv](https://img.shields.io/badge/arXiv-2212.10001-009688.svg)](https://arxiv.org/abs/2212.10001) <br>
+> Generative agents: Interactive simulacra of human behavior [![arXiv](https://img.shields.io/badge/arXiv-2304.03442-009688.svg)](https://arxiv.org/abs/2304.03442) <br>
+
+## 📗Collective Intelligence 1.0 and 2.0 Era
+**Collective Intelligence 1.0 Era:** Complex group behaviors can emerge from simple interaction rules.
+> Swarm intelligence: from natural to artificial systems [![arXiv](https://img.shields.io/badge/Oxford-40811-009688.svg)](https://academic.oup.com/book/40811) <br>
+> Ant colony optimization: a new metaheuristic [![arXiv](https://img.shields.io/badge/IEEE-782657-009688.svg)](https://ieeexplore.ieee.org/document/782657) <br>
+> Particle swarm optimization [![arXiv](https://img.shields.io/badge/IEEE-488968-009688.svg)](https://ieeexplore.ieee.org/abstract/document/488968) <br>
+> Aco algorithms for the traveling salesman problem [![arXiv](https://img.shields.io/badge/ResearchGate-2771967-009688.svg)](https://www.researchgate.net/publication/2771967_ACO_Algorithms_for_the_Traveling_Salesman_Problem) <br>
+> A modified particle swarm optimizer [![arXiv](https://img.shields.io/badge/IEEE-699146-009688.svg)](https://ieeexplore.ieee.org/document/699146) <br>
+
+**Collective Intelligence 2.0 Era:** The Collective Intelligence 2.0 Era marked a significant advancement through the development of specialized multi-agent architectures.
+> Multi-agent architectures as organizational structures [![arXiv](https://img.shields.io/badge/springer-10.1007-009688.svg)](https://link.springer.com/article/10.1007/s10458-006-5717-6) <br>
+> Parameter adaptation in ant colony optimization [![arXiv](https://img.shields.io/badge/springer-10.1007-009688.svg)](https://link.springer.com/chapter/10.1007/978-3-642-21434-9_8) <br>
+> Swarm intelligence and evolutionary computation [![arXiv](https://img.shields.io/badge/sciencedirect-journal-009688.svg)](https://www.sciencedirect.com/journal/swarm-and-evolutionary-computation) <br>
+> Distributed algorithms for multi-robot observation of multiple moving targets [![arXiv](https://img.shields.io/badge/springer-10.1023-009688.svg)](https://link.springer.com/article/10.1023/A:1015256330750) <br>
+> Wireless sensor network survey [![arXiv](https://img.shields.io/badge/sciencedirect-article-009688.svg)](https://www.sciencedirect.com/science/article/pii/S1389128608001254) <br>
