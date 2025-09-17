@@ -625,7 +625,7 @@ SPICE [![arXiv](https://img.shields.io/badge/researchgate-259779091-009688.svg)]
 > Nature-Inspired Population-Based Evolution of Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-2503.01155-009688.svg)](https://arxiv.org/abs/2503.01155) <br>
 > The Society of HiveMind: Multi-Agent Optimization of Foundation Model Swarms to Unlock the Potential of Collective Intelligence [![arXiv](https://img.shields.io/badge/arXiv-2503.05473-009688.svg)](https://arxiv.org/abs/2503.05473) <br>
 
-### Major Scientific Problems
+### ‼️Major Scientific Problems
 **Unclear Emergence Mechanisms** <br>
 > A defining feature of collective intelligence is emergence, where complex collective behaviors and capabilities surpass those of individual agents, potentially enabling phenomena like creative problem-solving and novel knowledge generation. However, the mechanisms underlying intelligent emergence remain elusive, impeding progress in this field, and research on how these phenomena arise is severely limited, especially within LLM-based collective systems. There is a lack of systematic explanations for the specific manifestations, triggering conditions, and evolutionary dynamics of emergence. Understanding these mechanisms is crucial for developing advanced collective intelligence systems. Future research requires systematic theoretical models to provide a foundation for exploring the transition from weak emergence (simple aggregation) to strong emergence (cognitive and creative breakthroughs).
 
