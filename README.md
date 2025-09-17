@@ -14,17 +14,18 @@ Collective intelligence (CI) has emerged as a cornerstone for advancing toward A
 
 ## 📂 Contents
 > 
-- [Evolution of Collective Intelligence](#evolution-of-collective-intelligence)
-- [Key Techniques of Large Language Models](#key-techniques-of-large-language-models)
-  - [Pre-Training](#pre-training)
-  - [Supervised Fine-Tuning(SFT)](#supervised-fine-tuning(SFT))
-  - [Human Preference Alignment](#human-preference-alignment)
-  - [Prompt Engineering](#prompt-engineering)
-  - [Tool Use](#tool-use)
-  - [Memory Mechanism](#memory-mechanism)
-  - [Parameter-Efficient Fine-Tuning (PEFT)](#parameter-efficient-fine-tuning-(PEFT))
-  - [LLM-Based Agents](#llm-based-agents)
-- [LLM-based Collective Intelligence](#llm-based-collective-intelligence)
+- [Introduction](#Introduction)
+- [Preliminary](#Preliminary)
+  - [Key Techniques of Large Language Models](#key-techniques-of-large-language-models)
+    - [Pre-Training](#pre-training)
+    - [Supervised Fine-Tuning(SFT)](#supervised-fine-tuning(SFT))
+    - [Human Preference Alignment](#human-preference-alignment)
+    - [Prompt Engineering](#prompt-engineering)
+    - [Tool Use](#tool-use)
+    - [Memory Mechanism](#memory-mechanism)
+    - [Parameter-Efficient Fine-Tuning (PEFT)](#parameter-efficient-fine-tuning-(PEFT))
+    - [LLM-Based Agents](#llm-based-agents)
+  - [LLM-based Collective Intelligence](#llm-based-collective-intelligence)
 - [Collective Intelligence 1.0 and 2.0 Era](#collective-intelligence-1.0-and-2.0-era)
   - [Collective Intelligence 1.0 Era](#collective-intelligence-1.0-era)
   - [Collective Intelligence 2.0 Era](#collective-intelligence-2.0-era)
@@ -65,7 +66,7 @@ Collective intelligence (CI) has emerged as a cornerstone for advancing toward A
   - [Major Scientific Problems](#Major-Scientific-Problems)
 - [Conclusion](#conclusion)
 
-## 🧬Evolution of Collective Intelligence
+## 🧬Introduction
 ![CI Framework](https://github.com/d-andelions/awesome-LLM-Driven-Collective-Intelligence/blob/main/figs/1.png)
 The **Collective Intelligence 1.0 Era** established the core principles of emergent group behavior through bio-inspired algorithms. Early works have demonstrated that complex group behaviors can emerge from simple interaction rules.
 
