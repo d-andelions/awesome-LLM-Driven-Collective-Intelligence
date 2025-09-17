@@ -134,13 +134,13 @@ In the future, as artificial intelligence continues to progress, it will encount
 ![Figure 4](https://github.com/d-andelions/awesome-LLM-Driven-Collective-Intelligence/blob/main/figs/4.png)
 ### 📖Data-Level Enhancement
 **Same LLM Driven:**
-> **Single-Round Role-Playing Interaction**
+> **Single-Round Role-Playing Interaction** <br>
 > Role play with large language models [![arXiv](https://img.shields.io/badge/arXiv-2305.16367-009688.svg)](https://arxiv.org/abs/2305.16367) <br>
 > Picle: Eliciting diverse behaviors from large language models with persona in-context learning [![arXiv](https://img.shields.io/badge/arXiv-2405.02501-009688.svg)](https://arxiv.org/abs/2405.02501) <br>
 > On the steerability of large language models toward data-driven personas [![arXiv](https://img.shields.io/badge/arXiv-2311.04978-009688.svg)](https://arxiv.org/abs/2311.04978) <br>
 > Synthetic dialogue dataset generation using llm agents [![arXiv](https://img.shields.io/badge/arXiv-2401.17461-009688.svg)](https://arxiv.org/abs/2401.17461) <br>
 
-> **Multi-Round Role-Playing Interaction**
+> **Multi-Round Role-Playing Interaction** <br>
 > Unleashing the emergent cognitive synergy in large language models: A task-solving agent through multi-persona self-collaboration [![arXiv](https://img.shields.io/badge/arXiv-2307.05300-009688.svg)](https://arxiv.org/abs/2307.05300) <br>
 > Diasynth: Synthetic dialogue generation framework for low resource dialogue applications [![arXiv](https://img.shields.io/badge/arXiv-2409.19020-009688.svg)](https://arxiv.org/abs/2409.19020) <br>
 > Psydial: Personality-based synthetic dialogue generation using large language models [![arXiv](https://img.shields.io/badge/arXiv-2404.00930-009688.svg)](https://arxiv.org/abs/2404.00930) <br>
@@ -148,11 +148,11 @@ In the future, as artificial intelligence continues to progress, it will encount
 > Reviewinstruct: A review-driven multi-turn conversations generation method for large language models [![arXiv](https://img.shields.io/badge/arXiv-2505.11010-009688.svg)](https://arxiv.org/abs/2505.11010) <br>
 
 **Different LLM Driven:**
-> **Centralized Control**
+> **Centralized Control** <br>
 > Synthesizing post-training data for llms through multi-agent simulation [![arXiv](https://img.shields.io/badge/arXiv-2410.14251-009688.svg)](https://arxiv.org/abs/2410.14251) <br>
 > Dflow: Diverse dialogue flow simulation with large language models [![arXiv](https://img.shields.io/badge/arXiv-2410.14853-009688.svg)](https://arxiv.org/abs/2410.14853) <br>
 
-> **Decentralized Control**
+> **Decentralized Control** <br>
 > Scaling synthetic data creation with 1,000,000,000 personas [![arXiv](https://img.shields.io/badge/arXiv-2406.20094-009688.svg)](https://arxiv.org/abs/2406.20094) <br>
 > Mag-v: A multi-agent framework for synthetic data generation and verification [![arXiv](https://img.shields.io/badge/arXiv-2412.04494-009688.svg)](https://arxiv.org/abs/2412.04494) <br>
 > The fellowship of the llms: Multi-agent workflows for synthetic preference optimization dataset generation [![arXiv](https://img.shields.io/badge/arXiv-2408.08688-009688.svg)](https://arxiv.org/abs/2408.08688) <br>
@@ -160,7 +160,7 @@ In the future, as artificial intelligence continues to progress, it will encount
 
 ### 📖Model-Level Enhancement
 **Model Routing:**
-> **Routing for Cost Reduction**
+> **Routing for Cost Reduction** <br>
 > Frugalgpt: How to use large language models while reducing cost and improving performance [![arXiv](https://img.shields.io/badge/arXiv-2305.05176-009688.svg)](https://arxiv.org/abs/2305.05176) <br>
 > Automix: Automatically mixing language models [![arXiv](https://img.shields.io/badge/arXiv-2310.12963-009688.svg)](https://arxiv.org/abs/2310.12963) <br>
 > Hybrid llm: Cost-efficient and quality-aware query routing [![arXiv](https://img.shields.io/badge/arXiv-2404.14618-009688.svg)](https://arxiv.org/abs/2404.14618) <br>
@@ -171,7 +171,7 @@ In the future, as artificial intelligence continues to progress, it will encount
 > Routellm: Learning to route llms with preference data [![arXiv](https://img.shields.io/badge/arXiv-2406.18665-009688.svg)](https://arxiv.org/abs/2406.18665) <br>
 > Llm bandit: Cost-efficient llm generation via preferenceconditioned dynamic routing [![arXiv](https://img.shields.io/badge/arXiv-2502.02743-009688.svg)](https://arxiv.org/abs/2502.02743) <br>
 
-> **Routing for Performance Enhancement**
+> **Routing for Performance Enhancement** <br>
 > Llm-blender: Ensembling large language models with pairwise ranking and generative fusion [![arXiv](https://img.shields.io/badge/arXiv-2306.02561-009688.svg)](https://arxiv.org/abs/2306.02561) <br>
 > Loraretriever: Input-aware lora retrieval and composition for mixed tasks in the wild [![arXiv](https://img.shields.io/badge/arXiv-2402.09997-009688.svg)](https://arxiv.org/abs/2402.09997) <br>
 > Large language model routing with benchmark datasets [![arXiv](https://img.shields.io/badge/arXiv-2309.15789-009688.svg)](https://arxiv.org/abs/2309.15789) <br>
@@ -186,7 +186,7 @@ In the future, as artificial intelligence continues to progress, it will encount
 > Citer: Collaborative inference for efficient large language model decoding with token-level routing [![arXiv](https://img.shields.io/badge/arXiv-2502.01976-009688.svg)](https://arxiv.org/abs/2502.01976) <br>
 
 **Model Merging:**
-> **Single-task Homogeneous Merging**
+> **Single-task Homogeneous Merging** <br>
 > Emr-merging: Tuning-free high-performance model merging[![arXiv](https://img.shields.io/badge/arXiv-2405.17461-009688.svg)](https://arxiv.org/abs/2405.17461) <br>
 > Editing models with task arithmetic merging[![arXiv](https://img.shields.io/badge/arXiv-2212.04089-009688.svg)](https://arxiv.org/abs/2212.04089) <br>
 > Evolutionary optimization of model merging recipes [![arXiv](https://img.shields.io/badge/arXiv-2403.13187-009688.svg)](https://arxiv.org/abs/2403.13187) <br>
@@ -203,7 +203,7 @@ In the future, as artificial intelligence continues to progress, it will encount
 > Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time rank-wise clustering [![arXiv](https://img.shields.io/badge/arXiv-2203.05482-009688.svg)](https://arxiv.org/abs/2203.05482) <br>
 > Model ratatouille: Recycling diverse models for out-of-distribution generalization [![arXiv](https://img.shields.io/badge/arXiv-2212.10445-009688.svg)](https://arxiv.org/abs/2212.10445) <br>
 
-> **Multi-task Homogeneous Merging**
+> **Multi-task Homogeneous Merging** <br>
 > Editing models with task arithmetic [![arXiv](https://img.shields.io/badge/arXiv-2212.04089-009688.svg)](https://arxiv.org/abs/2212.04089) <br>
 > Evolutionary optimization of model merging recipes [![arXiv](https://img.shields.io/badge/arXiv-2403.13187-009688.svg)](https://arxiv.org/abs/2403.13187) <br>
 > Representation surgery for multi-task model merging [![arXiv](https://img.shields.io/badge/arXiv-2402.02705-009688.svg)](https://arxiv.org/abs/2402.02705) <br>
@@ -218,7 +218,7 @@ In the future, as artificial intelligence continues to progress, it will encount
 > Lori: Reducing cross-task interference in multi-task low-rank adaptation [![arXiv](https://img.shields.io/badge/arXiv-2504.07448-009688.svg)](https://arxiv.org/abs/2504.07448) <br>
 
 **Model Ensemble:**
-> **Token-level Ensemble**
+> **Token-level Ensemble** <br>
 > Breaking the ceiling of the LLM community by treating token generation as a classification for ensembling [![arXiv](https://img.shields.io/badge/arXiv-2406.12585-009688.svg)](https://arxiv.org/abs/2406.12585) <br>
 > Determine-then-ensemble: Necessity of top-k union for large language model ensembling [![arXiv](https://img.shields.io/badge/arXiv-2410.03777-009688.svg)](https://arxiv.org/abs/2410.03777) <br>
 > Pack of LLMs: Model fusion at test-time via perplexity optimization [![arXiv](https://img.shields.io/badge/arXiv-2404.11531-009688.svg)](https://arxiv.org/abs/2404.11531) <br>
@@ -226,13 +226,13 @@ In the future, as artificial intelligence continues to progress, it will encount
 > Bridging the gap between different vocabularies for llm ensemble [![arXiv](https://img.shields.io/badge/arXiv-2404.09492-009688.svg)](https://arxiv.org/abs/2404.09492) <br>
 > Ensemble learning for heterogeneous large language models with deep parallel collaboration [![arXiv](https://img.shields.io/badge/arXiv-2406.15479-009688.svg)](https://arxiv.org/abs/2406.15479) <br>
 
-> **Span-level Ensemble**
+> **Span-level Ensemble** <br>
 > Coolfusion: Fuse large language models without training [![arXiv](https://img.shields.io/badge/arXiv-2407.19807-009688.svg)](https://arxiv.org/abs/2407.19807) <br>
 > Ensembling large language models with process reward-guided tree search for better complex reasoning [![arXiv](https://img.shields.io/badge/arXiv-2412.15797-009688.svg)](https://arxiv.org/abs/2412.15797) <br>
 > Hit the sweet spot! Span-level ensemble for large language models [![arXiv](https://img.shields.io/badge/arXiv-2409.18583-009688.svg)](https://arxiv.org/abs/2409.18583) <br>
 > Specfuse: Ensembling large language models via next-segment prediction [![arXiv](https://img.shields.io/badge/arXiv-2412.07380-009688.svg)](https://arxiv.org/abs/2412.07380) <br>
 
-> **Response-level Ensemble**
+> **Response-level Ensemble** <br>
 > Mixture-of-agents enhances large language model capabilities [![arXiv](https://img.shields.io/badge/arXiv-2406.04692-009688.svg)](https://arxiv.org/abs/2406.04692) <br>
 > SMoA: Improving multi-agent large language models with sparse mixture-of-agents [![arXiv](https://img.shields.io/badge/arXiv-2411.03284-009688.svg)](https://arxiv.org/abs/2411.03284) <br>
 > Symbolic mixture-of-experts: Adaptive skill-based routing for heterogeneous reasoning [![arXiv](https://img.shields.io/badge/arXiv-2503.05641-009688.svg)](https://arxiv.org/abs/2503.05641) <br>
@@ -242,14 +242,14 @@ In the future, as artificial intelligence continues to progress, it will encount
 
 ### 📖Inference-Level Enhancement
 **Self-driven Enhancement:**
-> **Self-Ensemble Enhancement**
+> **Self-Ensemble Enhancement** <br>
 > Self-consistency improves chain of thought reasoning in language models [![arXiv](https://img.shields.io/badge/arXiv-2203.11171-009688.svg)](https://arxiv.org/abs/2203.11171) <br>
 > The curious case of neural text degeneration [![arXiv](https://img.shields.io/badge/arXiv-1904.09751-009688.svg)](https://arxiv.org/abs/1904.09751) <br>
 > Chain-of-thought prompting elicits reasoning in large language models [![arXiv](https://img.shields.io/badge/arXiv-2201.11903-009688.svg)](https://arxiv.org/abs/2201.11903) <br>
 > Accessing GPT-4 level mathematical olympiad solutions via Monte Carlo tree self-refine with LLaMa-3 8B [![arXiv](https://img.shields.io/badge/arXiv-2406.07394-009688.svg)](https://arxiv.org/abs/2406.07394) <br>
 > CoT-based synthesizer: Enhancing LLM performance through answer synthesis [![arXiv](https://img.shields.io/badge/arXiv-2501.01668-009688.svg)](https://arxiv.org/abs/2501.01668) <br>
 > Tree of thoughts: Deliberate problem solving with large language models [![arXiv](https://img.shields.io/badge/arXiv-2212.10001-009688.svg)](https://arxiv.org/abs/2212.10001) <br>
-> **Self-Improvement Enhancement**
+> **Self-Improvement Enhancement** <br>
 > Reflexion: Language agents with verbal reinforcement learning [![arXiv](https://img.shields.io/badge/arXiv-2303.11366-009688.svg)](https://arxiv.org/abs/2303.11366) <br>
 > Retroformer: Retrospective large language agents with policy gradient optimization [![arXiv](https://img.shields.io/badge/arXiv-2308.02151-009688.svg)](https://arxiv.org/abs/2308.02151) <br>
 > Reflective multi-agent collaboration based on large language models [![arXiv](https://img.shields.io/badge/ACM-10.5555-009688.svg)](https://dl.acm.org/doi/10.5555/3737916.3742313) <br>
@@ -257,7 +257,7 @@ In the future, as artificial intelligence continues to progress, it will encount
 > Hypothetical minds: Scaffolding theory of mind for multi-agent tasks with large language models [![arXiv](https://img.shields.io/badge/arXiv-2407.07086-009688.svg)](https://arxiv.org/abs/2407.07086) <br>
 
 **Cooperation-driven Enhancement:**
-> **Task Planning Based Collaboration**
+> **Task Planning Based Collaboration** <br>
 > HuggingGPT: Solving AI tasks with ChatGPT and its friends in Hugging Face [![arXiv](https://img.shields.io/badge/arXiv-2303.17580-009688.svg)](https://arxiv.org/abs/2303.17580) <br>
 > Skeleton-of-thought: Prompting LLMs for efficient parallel generation [![arXiv](https://img.shields.io/badge/arXiv-2307.15337-009688.svg)](https://arxiv.org/abs/2307.15337) <br>
 > Voyager: An open-ended embodied agent with large language models [![arXiv](https://img.shields.io/badge/arXiv-2305.16291-009688.svg)](https://arxiv.org/abs/2305.16291) <br>
@@ -268,7 +268,7 @@ In the future, as artificial intelligence continues to progress, it will encount
 > AutoGen: Enabling next-gen LLM applications via multi-agent conversation [![arXiv](https://img.shields.io/badge/arXiv-2308.08155-009688.svg)](https://arxiv.org/abs/2308.08155) <br>
 > Magis: LLM-based multi-agent framework for GitHub issue resolution [![arXiv](https://img.shields.io/badge/arXiv-2403.17927-009688.svg)](https://arxiv.org/abs/2403.17927) <br>
 
-> **LLM–SLM Collaboration**
+> **LLM–SLM Collaboration** <br>
 > CITER: Collaborative inference for efficient large language model decoding with token-level routing [![arXiv](https://img.shields.io/badge/arXiv-2502.01976-009688.svg)](https://arxiv.org/abs/2502.01976) <br>
 > CoGenesis: A framework collaborating large and small language models for secure context-aware instruction following [![arXiv](https://img.shields.io/badge/arXiv-2403.03129-009688.svg)](https://arxiv.org/abs/2403.03129) <br>
 > Hybrid LLM: Towards low-latency multi-granularity routing between small and large models [![arXiv](https://img.shields.io/badge/arXiv-2404.14618-009688.svg)](https://arxiv.org/abs/2404.14618) <br>
@@ -277,7 +277,7 @@ In the future, as artificial intelligence continues to progress, it will encount
 > FedCoLLM: Federated collaboration of large and small language models for private data processing [![arXiv](https://img.shields.io/badge/arXiv-2411.11707-009688.svg)](https://arxiv.org/abs/2411.11707) <br>
 > Collaboration of large language models and small recommendation models for device-cloud recommendation [![arXiv](https://img.shields.io/badge/arXiv-2501.05647-009688.svg)](https://arxiv.org/abs/2501.05647) <br>
 
-> **Dual-System Collaboration**
+> **Dual-System Collaboration** <br>
 > Thinking, Fast and Slow [![arXiv](https://img.shields.io/badge/wikipedia-Thinking-009688.svg)](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) <br>
 > DSADF: Thinking fast and slow for decision making [![arXiv](https://img.shields.io/badge/arXiv-2505.08189-009688.svg)](https://arxiv.org/abs/2505.08189) <br>
 > Visual agents as fast and slow thinkers [![arXiv](https://img.shields.io/badge/arXiv-2408.08862-009688.svg)](https://arxiv.org/abs/2408.08862) <br>
@@ -288,7 +288,7 @@ In the future, as artificial intelligence continues to progress, it will encount
 
 
 **Competition-involved Enhancement**
-> **Multi-Agent Debate**
+> **Multi-Agent Debate** <br>
 > Improving factuality and reasoning in language models through multi-agent debate [![arXiv](https://img.shields.io/badge/arXiv-2305.14325-009688.svg)](https://arxiv.org/abs/2305.14325) <br>
 > Examining inter-consistency of large language models collaboration: An in-depth analysis via debate [![arXiv](https://img.shields.io/badge/arXiv-2305.11595-009688.svg)](https://arxiv.org/abs/2305.11595) <br>
 > ReConcile: Roundtable conference improves reasoning via consensus among diverse LLMs [![arXiv](https://img.shields.io/badge/arXiv-2309.13007-009688.svg)](https://arxiv.org/abs/2309.13007) <br>
@@ -305,7 +305,7 @@ In the future, as artificial intelligence continues to progress, it will encount
 > If multi-agent debate is the answer, what is the question? [![arXiv](https://img.shields.io/badge/arXiv-2502.08788-009688.svg)](https://arxiv.org/abs/2502.08788) <br>
 > Agentverse: Facilitating multi-agent collaboration and exploring emergent behaviors [![arXiv](https://img.shields.io/badge/arXiv-2308.10848-009688.svg)](https://arxiv.org/abs/2308.10848) <br>
 
-> **Critique Mechanisms**
+> **Critique Mechanisms** <br>
 > Multi-agent verification: Scaling test-time compute with multiple verifiers [![arXiv](https://img.shields.io/badge/arXiv-2502.20379-009688.svg)](https://arxiv.org/abs/2502.20379) <br>
 > Critic-V: VLM critics help catch VLM errors in multimodal reasoning [![arXiv](https://img.shields.io/badge/arXiv-2411.18203-009688.svg)](https://arxiv.org/abs/2411.18203) <br>
 > LLaMA-Berry: Pairwise optimization for O1-like olympiad-level mathematical reasoning [![arXiv](https://img.shields.io/badge/arXiv-2410.02884-009688.svg)](https://arxiv.org/abs/2410.02884) <br>
@@ -315,7 +315,7 @@ In the future, as artificial intelligence continues to progress, it will encount
 > Towards efficient LLM grounding for embodied multi-agent collaboration [![arXiv](https://img.shields.io/badge/arXiv-2405.14314-009688.svg)](https://arxiv.org/abs/2405.14314) <br>
 
 **Self-Organizing Collective Optimization**
-> **Heuristic Collective Optimization**
+> **Heuristic Collective Optimization** <br>
 > Model Swarms: Collaborative search to adapt LLM experts via swarm intelligence [![arXiv](https://img.shields.io/badge/arXiv-2410.11163-009688.svg)](https://arxiv.org/abs/2410.11163) <br>
 > Heterogeneous Swarms: Jointly optimizing model roles and weights for multi-LLM systems [![arXiv](https://img.shields.io/badge/arXiv-2502.04510-009688.svg)](https://arxiv.org/abs/2502.04510) <br>
 > SwarmPrompt: Swarm intelligence-driven prompt optimization using large language models [![arXiv](https://img.shields.io/badge/researchr-ShriyanSASA25-009688.svg)](https://researchr.org/publication/ShriyanSASA25) <br>
@@ -325,7 +325,7 @@ In the future, as artificial intelligence continues to progress, it will encount
 > EvoFlow: Evolving diverse agentic workflows on the fly [![arXiv](https://img.shields.io/badge/arXiv-2502.07373-009688.svg)](https://arxiv.org/abs/2502.07373) <br>
 > EvoAgent: Towards automatic multi-agent generation via evolutionary algorithms [![arXiv](https://img.shields.io/badge/arXiv-2406.14228-009688.svg)](https://arxiv.org/abs/2406.14228) <br>
 
-> **Automated Collective Optimization**
+> **Automated Collective Optimization** <br>
 > Multi-agent architecture search via agentic supernet [![arXiv](https://img.shields.io/badge/arXiv-2502.04180-009688.svg)](https://arxiv.org/abs/2502.04180) <br>
 > GPTSwarm: Language agents as optimizable graphs [![arXiv](https://img.shields.io/badge/arXiv-2402.16823v3-009688.svg)](https://arxiv.org/abs/2402.16823v3) <br>
 > AgentDropout: Dynamic agent elimination for token-efficient and high-performance LLM-based multi-agent collaboration [![arXiv](https://img.shields.io/badge/arXiv-2503.18891-009688.svg)](https://arxiv.org/abs/2503.18891) <br>
