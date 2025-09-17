@@ -340,26 +340,256 @@ In the future, as artificial intelligence continues to progress, it will encount
 ![Figure 5](https://github.com/d-andelions/awesome-LLM-Driven-Collective-Intelligence/blob/main/figs/5.png)
 ### 📖Scientific Discovery and Autonomous Research
 **Scientific Discovery:**
+> **Mathematics and Physics** <br>
+> MathLearner: A large language model agent framework for learning to solve mathematical problems [![arXiv](https://img.shields.io/badge/arXiv-2408.01779-009688.svg)](https://arxiv.org/abs/2408.01779) <br>
+> MA-LoT: Multi-agent lean-based long chain-of-thought reasoning enhances formal theorem proving [![arXiv](https://img.shields.io/badge/arXiv-2503.03205-009688.svg)](https://arxiv.org/abs/2503.03205) <br>
+> MyCrunchGPT: A LLM assisted framework for scientific machine learning [![arXiv](https://img.shields.io/badge/arXiv-2306.15551-009688.svg)](https://arxiv.org/abs/2306.15551) <br>
+> Automating mathematical proof generation using large language model agents and knowledge graphs [![arXiv](https://img.shields.io/badge/arXiv-2503.11657-009688.svg)](https://arxiv.org/abs/2503.11657) <br>
+> LLMPhy: Complex physical reasoning using large language models and world models [![arXiv](https://img.shields.io/badge/arXiv-2411.08027-009688.svg)](https://arxiv.org/abs/2411.08027) <br>
+> MechAgents: Large language model multi-agent collaborations can solve mechanics problems, generate new data, and integrate knowledge [![arXiv](https://img.shields.io/badge/arXiv-2311.08166-009688.svg)](https://arxiv.org/abs/2311.08166) <br>
+> Physics-informed LLM-Agent for automated modulation design in power electronics systems [![arXiv](https://img.shields.io/badge/arXiv-2411.14214-009688.svg)](https://arxiv.org/abs/2411.14214) <br>
+> MathChat: Converse to tackle challenging math problems with LLM agents [![arXiv](https://img.shields.io/badge/arXiv-2306.01337-009688.svg)](https://arxiv.org/abs/2306.01337) <br>
+
+> **Chemistry and Material** <br>
+> Moose-Chem: Large language models for rediscovering unseen chemistry scientific hypotheses [![arXiv](https://img.shields.io/badge/arXiv-2410.07076-009688.svg)](https://arxiv.org/abs/2410.07076) <br>
+> ChemCrow: Augmenting large-language models with chemistry tools [![arXiv](https://img.shields.io/badge/arXiv-2304.05376-009688.svg)](https://arxiv.org/abs/2304.05376) <br>
+> Towards an AI Co-Scientist [![arXiv](https://img.shields.io/badge/arXiv-2502.18864-009688.svg)](https://arxiv.org/abs/2502.18864) <br>
+> An autonomous laboratory for the accelerated synthesis of novel materials [![arXiv](https://img.shields.io/badge/nature-s41586.023.06734.w-009688.svg)](https://www.nature.com/articles/s41586-023-06734-w) <br>
+> Agent Laboratory: Using LLM agents as research assistants [![arXiv](https://img.shields.io/badge/arXiv-2501.04227-009688.svg)](https://arxiv.org/abs/2501.04227) <br>
+> Chemist-X: Large language model-empowered agent for reaction condition recommendation in chemical synthesis [![arXiv](https://img.shields.io/badge/arXiv-2311.10776-009688.svg)](https://arxiv.org/abs/2311.10776) <br>
+> Honeycomb: A flexible LLM-based agent system for materials science [![arXiv](https://img.shields.io/badge/arXiv-2409.00135-009688.svg)](https://arxiv.org/abs/2409.00135) <br>
+
+> **Biology and Medicine** <br>
+> Toward a Team of AI-made Scientists for Scientific Discovery from Gene Expression Data [![arXiv](https://img.shields.io/badge/arXiv-2402.12391-009688.svg)](https://arxiv.org/abs/2402.12391) <br>
+> CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments [![arXiv](https://img.shields.io/badge/arXiv-2404.18021-009688.svg)](https://arxiv.org/abs/2404.18021) <br>
+> BioDiscoveryAgent: An AI Agent for Designing Genetic Perturbation Experiments [![arXiv](https://img.shields.io/badge/arXiv-2405.17631-009688.svg)](https://arxiv.org/abs/2405.17631) <br>
+> AgentMD: Empowering Language Agents for Risk Prediction with Large-scale Clinical Tool Learning [![arXiv](https://img.shields.io/badge/arXiv-2402.13225-009688.svg)](https://arxiv.org/abs/2402.13225) <br>
+> ProtAgents: Protein discovery via large language model multi-agent collaborations combining physics and machine learning [![arXiv](https://img.shields.io/badge/arXiv-2402.04268-009688.svg)](https://arxiv.org/abs/2402.04268) <br>
+
 **Autonomous Research:**
+> **Autonomous Literature Analysis** <br>
+> ChatCite: LLM Agent with Human Workflow Guidance for Comparative Literature Summary [![arXiv](https://img.shields.io/badge/arXiv-2403.02574-009688.svg)](https://arxiv.org/abs/2403.02574) <br>
+> SurveyForge: On the Outline Heuristics, Memory-driven Generation, and Multi-dimensional Evaluation for Automated Survey Writing [![arXiv](https://img.shields.io/badge/arXiv-2503.04629-009688.svg)](https://arxiv.org/abs/2503.04629) <br>
+> System for Systematic Literature Review Using Multiple AI Agents: Concept and an Empirical Evaluation [![arXiv](https://img.shields.io/badge/arXiv-2403.08399-009688.svg)](https://arxiv.org/abs/2403.08399) <br>
+> ReviewAgents: Bridging the Gap between Human and AI-generated Paper Reviews [![arXiv](https://img.shields.io/badge/arXiv-2503.08506-009688.svg)](https://arxiv.org/abs/2503.08506) <br>
+
+> **Autonomous Scientific Research** <br>
+> ResearchAgent: Iterative research idea generation over scientific literature with large language models [![arXiv](https://img.shields.io/badge/arXiv-2404.07738-009688.svg)](https://arxiv.org/abs/2404.07738) <br>
+> Dolphin: Closed-loop open-ended auto-research through thinking, practice, and feedback [![arXiv](https://img.shields.io/badge/arXiv-2501.03916-009688.svg)](https://arxiv.org/abs/2501.03916) <br>
+> Many Heads Are Better Than One: Improved scientific idea generation by a LLM-based multi-agent system [![arXiv](https://img.shields.io/badge/arXiv-2410.09403-009688.svg)](https://arxiv.org/abs/2410.09403) <br>
+> AutoAgent: A fully-automated and zero-code framework for LLM agents [![arXiv](https://img.shields.io/badge/arXiv-2502.05957-009688.svg)](https://arxiv.org/abs/2502.05957) <br>
+> NovelSeek: When agent becomes the scientist – building closed-loop system from hypothesis to verification [![arXiv](https://img.shields.io/badge/arXiv-2505.16938-009688.svg)](https://arxiv.org/abs/2505.16938) <br>
+> OriGene: A self-evolving virtual disease biologist automating therapeutic target discovery [![bioRxiv](https://img.shields.io/badge/researchgate-392477961-009688.svg)](https://www.researchgate.net/publication/392477961_OriGene_A_Self-Evolving_Virtual_Disease_Biologist_Automating_Therapeutic_Target_Discovery) <br>
+> Chain of Ideas: Revolutionizing research via novel idea development with LLM agents [![arXiv](https://img.shields.io/badge/arXiv-2410.13185-009688.svg)](https://arxiv.org/abs/2410.13185) <br>
+> Agent Laboratory: Using LLM agents as research assistants [![arXiv](https://img.shields.io/badge/arXiv-2501.04227-009688.svg)](https://arxiv.org/abs/2501.04227) <br>
 
 ### 📖Embodied Intelligence Research
 **Centralized Control Paradigm:**
+> **Task Allocation and Decision Making** <br>
+> OPEX: A component-wise analysis of LLM-centric agents in embodied instruction following [![arXiv](https://img.shields.io/badge/arXiv-2403.03017-009688.svg)](https://arxiv.org/abs/2403.03017) <br>
+> Long-horizon planning for multi-agent robots in partially observable environments [![arXiv](https://img.shields.io/badge/arXiv-2407.10031-009688.svg)](https://arxiv.org/abs/2407.10031) <br>
+> Plan, Eliminate, and Track – Language models are good teachers for embodied agents [![arXiv](https://img.shields.io/badge/arXiv-2305.02412-009688.svg)](https://arxiv.org/abs/2305.02412) <br>
+> LLM-Planner: Few-shot grounded planning for embodied agents with large language models [![arXiv](https://img.shields.io/badge/arXiv-2212.04088-009688.svg)](https://arxiv.org/abs/2212.04088) <br>
+> CAPO: Cooperative plan optimization for efficient embodied multi-agent cooperation [![arXiv](https://img.shields.io/badge/arXiv-2411.04679-009688.svg)](https://arxiv.org/abs/2411.04679) <br>
+> EMOS: Embodiment-aware heterogeneous multi-robot operating system with LLM agents [![arXiv](https://img.shields.io/badge/arXiv-2410.22662-009688.svg)](https://arxiv.org/abs/2410.22662) <br>
+> LIP-LLM: Integrating linear programming and dependency graph with large language models for multi-robot task planning, IEEE Robotics and Automation Letters [![arXiv](https://img.shields.io/badge/IEEE-10803039-009688.svg)](https://ieeexplore.ieee.org/document/10803039) <br>
+> SMART-LLM: Smart multi-agent robot task planning using large language models [![arXiv](https://img.shields.io/badge/arXiv-2309.10062-009688.svg)](https://arxiv.org/abs/2309.10062) <br>
+> LAMMA-P: Generalizable multi-agent long-horizon task allocation and planning with LM-driven PDDL planner [![arXiv](https://img.shields.io/badge/arXiv-2409.20560-009688.svg)](https://arxiv.org/abs/2409.20560) <br>
+> TANGO: Training-free embodied AI agents for open-world tasks [![arXiv](https://img.shields.io/badge/arXiv-2412.10402-009688.svg)](https://arxiv.org/abs/2412.10402) <br>
+> Embodied task planning with large language models [![arXiv](https://img.shields.io/badge/arXiv-2307.01848-009688.svg)](https://arxiv.org/abs/2307.01848) <br>
+> Co-NavGPT: Multi-robot cooperative visual semantic navigation using large language models [![arXiv](https://img.shields.io/badge/arXiv-2310.07937-009688.svg)](https://arxiv.org/abs/2310.07937) <br>
+> Embodied Agent Interface: Benchmarking LLMs for embodied decision making [![arXiv](https://img.shields.io/badge/arXiv-2410.07166-009688.svg)](https://arxiv.org/abs/2410.07166) <br>
+> Hazard Challenge: Embodied decision making in dynamically changing environments [![arXiv](https://img.shields.io/badge/arXiv-2401.12975-009688.svg)](https://arxiv.org/abs/2401.12975) <br>
+> Large language models to the rescue: Deadlock resolution in multi-robot systems [![arXiv](https://img.shields.io/badge/arXiv-2404-009688.svg)](https://arxiv.org/abs/2404.00000) <br>
+> NavGPT: Explicit reasoning in vision-and-language navigation with large language models [![arXiv](https://img.shields.io/badge/arXiv-2407.10031-009688.svg)](https://arxiv.org/abs/2407.10031) <br>
+> LLM-powered Hierarchical Language Agent for Real-time Human-AI Coordination [![arXiv](https://img.shields.io/badge/arXiv-2312.15224-009688.svg)](https://arxiv.org/abs/2312.15224) <br>
+> Voyager: An open-ended embodied agent with large language models [![arXiv](https://img.shields.io/badge/arXiv-2305.16291-009688.svg)](https://arxiv.org/abs/2305.16291) <br>
+> LLM-Planner: Few-shot grounded planning for embodied agents with large language models [![arXiv](https://img.shields.io/badge/arXiv-2212.04088-009688.svg)](https://arxiv.org/abs/2212.04088) <br>
+
 **Decentralized Interactive Paradigm:**
+> **Agent Interaction Mechanism** <br>
+> COMBO: Compositional world models for embodied multi-agent cooperation [![arXiv](https://img.shields.io/badge/arXiv-2404.10775-009688.svg)](https://arxiv.org/abs/2404.10775) <br>
+> Evaluating Multi-Agent Coordination Abilities in Large Language Models [![arXiv](https://img.shields.io/badge/openreview-OEDM8mzbsl-009688.svg)](https://openreview.net/forum?id=OEDM8mzbsl) <br>
+> Embodied LLM Agents Learn to Cooperate in Organized Teams [![arXiv](https://img.shields.io/badge/arXiv-2403.12482-009688.svg)](https://arxiv.org/abs/2403.12482) <br>
+> S-Agents: Self-organizing Agents in Open-Ended Environments [![arXiv](https://img.shields.io/badge/arXiv-2402.04578-009688.svg)](https://arxiv.org/abs/2402.04578) <br>
+> Hierarchical Auto-Organizing System for Open-Ended Multi-Agent Navigation [![arXiv](https://img.shields.io/badge/arXiv-2403.08282-009688.svg)](https://arxiv.org/abs/2403.08282) <br>
+> Scalable Multi-Robot Collaboration with Large Language Models: Centralized or Decentralized Systems [![arXiv](https://img.shields.io/badge/arXiv-2309.15943-009688.svg)](https://arxiv.org/abs/2309.15943) <br>
 
 ### 📖Social Science Research
 **Scope of Simulation:**
+> **Scenario Simulation** <br>
+> ChatLLM Network: More Brains, More Intelligence [![arXiv](https://img.shields.io/badge/arXiv-2304.12998-009688.svg)](https://arxiv.org/abs/2304.12998) <br>
+> ChatGPT Research Group for Optimizing the Crystallinity of MOFs and COFs [![arXiv](https://img.shields.io/badge/ACS-10.1021-009688.svg)](https://pubs.acs.org/doi/10.1021/acscentsci.3c01087) <br>
+> ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate [![arXiv](https://img.shields.io/badge/arXiv-2308.07201-009688.svg)](https://arxiv.org/abs/2308.07201) <br>
+> Social Skill Training with Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-2404.04204-009688.svg)](https://arxiv.org/abs/2404.04204) <br>
+> Debate on Graph: A Flexible and Reliable Reasoning Framework for Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-2409.03155-009688.svg)](https://arxiv.org/abs/2409.03155) <br>
+> CulturePark: Boosting Cross-Cultural Understanding in Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-2405.15145-009688.svg)](https://arxiv.org/abs/2405.15145) <br>
+> AI Hospital: Interactive Evaluation and Collaboration of LLMs as Intern Doctors [![arXiv](https://img.shields.io/badge/arXiv-2402-009688.svg)](https://arxiv.org/abs/2402.00000) <br>
+> Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate [![arXiv](https://img.shields.io/badge/arXiv-2305.19118-009688.svg)](https://arxiv.org/abs/2305.19118) <br>
+> Improving Factuality and Reasoning in Language Models through Multiagent Debate [![arXiv](https://img.shields.io/badge/arXiv-2305.14325-009688.svg)](https://arxiv.org/abs/2305.14325) <br>
+> Beyond Natural Language: LLMs Leveraging Alternative Formats for Enhanced Reasoning and Communication [![arXiv](https://img.shields.io/badge/arXiv-2402.18439-009688.svg)](https://arxiv.org/abs/2402.18439) <br>
+> A Scalable Communication Protocol for Networks of Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-2410.11905-009688.svg)](https://arxiv.org/abs/2410.11905) <br>
+> Blind Judgement: Agent-Based Supreme Court Modelling with GPT [![arXiv](https://img.shields.io/badge/arXiv-2301.05327-009688.svg)](https://arxiv.org/abs/2301.05327) <br>
+> Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf [![arXiv](https://img.shields.io/badge/arXiv-2309.04658-009688.svg)](https://arxiv.org/abs/2309.04658) <br>
+> SimuCourt: Building Judicial Decision-Making Agents with Real-World Judgement Documents [![arXiv](https://img.shields.io/badge/arXiv-2403-009688.svg)](https://arxiv.org/abs/2403.00000) <br>
+> TradingGPT: Multi-Agent System with Layered Memory and Distinct Characters for Enhanced Financial Trading Performance [![arXiv](https://img.shields.io/badge/arXiv-2309.03736-009688.svg)](https://arxiv.org/abs/2309.03736) <br>
+> AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation [![arXiv](https://img.shields.io/badge/arXiv-2308.08155-009688.svg)](https://arxiv.org/abs/2308.08155) <br>
+> MetaGPT: Meta Programming for Multi-Agent Collaborative Framework [![arXiv](https://img.shields.io/badge/arXiv-2308.00352-009688.svg)](https://arxiv.org/abs/2308.00352) <br>
+> ChatDev: Communicative Agents for Software Development, ACL 2024 [![ACL](https://img.shields.io/badge/ACL-2024.810-009688.svg)](https://aclanthology.org/2024.acl-long.810) <br>
+> AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors [![arXiv](https://img.shields.io/badge/arXiv-2308.10848-009688.svg)](https://arxiv.org/abs/2308.10848) <br>
+> Scalable Multi-Robot Collaboration with Large Language Models: Centralized or Decentralized Systems [![arXiv](https://img.shields.io/badge/arXiv-2309.15943-009688.svg)](https://arxiv.org/abs/2309.15943) <br>
+
+> **Society Simulation** <br>
+> The Wisdom of Partisan Crowds: Comparing Collective Intelligence in Humans and LLM-based Agents [![arXiv](https://img.shields.io/badge/arXiv-2311.09665-009688.svg)](https://arxiv.org/abs/2311.09665) <br>
+> Generative Agent Simulations of 1,000 People [![arXiv](https://img.shields.io/badge/arXiv-2411.10109-009688.svg)](https://arxiv.org/abs/2411.10109) <br>
+> Epidemic Modeling with Generative Agents [![arXiv](https://img.shields.io/badge/arXiv-2307.04986-009688.svg)](https://arxiv.org/abs/2307.04986) <br>
+> ElectionSim: Massive Population Election Simulation Powered by Large Language Model Driven Agents [![arXiv](https://img.shields.io/badge/arXiv-2410.20746-009688.svg)](https://arxiv.org/abs/2410.20746) <br>
+> On the Limits of Agency in Agent-Based Models [![arXiv](https://img.shields.io/badge/arXiv-2409.10568-009688.svg)](https://arxiv.org/abs/2409.10568) <br>
+> Affordable Generative Agents [![arXiv](https://img.shields.io/badge/arXiv-2402.02053-009688.svg)](https://arxiv.org/abs/2402.02053) <br>
+> Social Simulation in the Social Sciences: A Brief Overview, Social Science Computer Review [![arXiv](https://img.shields.io/badge/ACM-10.1177-009688.svg)](https://dl.acm.org/doi/10.1177/0894439313512975) <br>
+> RecAgent: A Novel Simulation Paradigm for Recommender Systems [![arXiv](https://img.shields.io/badge/arXiv-2306.02552-009688.svg)](https://arxiv.org/abs/2306.02552) <br>
+> From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News [![arXiv](https://img.shields.io/badge/arXiv-2403.09498-009688.svg)](https://arxiv.org/abs/2403.09498) <br>
+> "Guinea Pig Trials" Utilizing GPT: A Novel Smart Agent-Based Modeling Approach for Studying Firm Competition and Collusion [![arXiv](https://img.shields.io/badge/arXiv-2308.10974-009688.svg)](https://arxiv.org/abs/2308.10974) <br>
+> Social Simulacra: Creating Populated Prototypes for Social Computing Systems [![arXiv](https://img.shields.io/badge/arXiv-2208.04024-009688.svg)](https://arxiv.org/abs/2208.04024) <br>
+> Language Evolution for Evading Social Media Regulation via LLM-based Multi-Agent Simulation [![arXiv](https://img.shields.io/badge/arXiv-2405.02858-009688.svg)](https://arxiv.org/abs/2405.02858) <br>
+> Can LLMs Understand Social Norms in Autonomous Driving Games? [![arXiv](https://img.shields.io/badge/arXiv-2408.12680-009688.svg)](https://arxiv.org/abs/2408.12680) <br>
+> On Generative Agents in Recommendation [![arXiv](https://img.shields.io/badge/arXiv-2310.10108-009688.svg)](https://arxiv.org/abs/2310.10108) <br>
+> Unveiling the Truth and Facilitating Change: Towards Agent-Based Large-Scale Social Movement Simulation [![arXiv](https://img.shields.io/badge/arXiv-2402.16333-009688.svg)](https://arxiv.org/abs/2402.16333) <br>
+> Generative Agents: Interactive Simulacra of Human Behavior [![arXiv](https://img.shields.io/badge/arXiv-2304.03442-009688.svg)](https://arxiv.org/abs/2304.03442) <br>
+> Emergence of Social Norms in Generative Agent Societies: Principles and Architecture [![arXiv](https://img.shields.io/badge/arXiv-2403.08251-009688.svg)](https://arxiv.org/abs/2403.08251) <br>
+
 **Application of Simulation:**
+> **Scientific Inquiry** <br>
+> Simulating Opinion Dynamics with Networks of LLM-based Agents [![arXiv](https://img.shields.io/badge/arXiv-2311.09618-009688.svg)](https://arxiv.org/abs/2311.09618) <br>
+> An LLM-Enhanced Agent-Based Simulation Tool for Information Propagation [![arXiv](https://img.shields.io/badge/IJCAI-2024.1007-009688.svg)](https://www.ijcai.org/proceedings/2024/1007.pdf) <br>
+> Attention Mechanism for LLM-based Agents Dynamic Diffusion under Information Asymmetry [![arXiv](https://img.shields.io/badge/arXiv-2502.13160-009688.svg)](https://arxiv.org/abs/2502.13160) <br>
+> EconAgent: Large Language Model-Empowered Agents for Simulating Macroeconomic Activities [![arXiv](https://img.shields.io/badge/arXiv-2310.10436-009688.svg)](https://arxiv.org/abs/2310.10436) <br>
+> A Multi-LLM-Agent-Based Framework for Economic and Public Policy Analysis [![arXiv](https://img.shields.io/badge/arXiv-2502.16879-009688.svg)](https://arxiv.org/abs/2502.16879) <br>
+> Can Generative AI Agents Behave Like Humans? Evidence from Laboratory Market Experiments [![arXiv](https://img.shields.io/badge/arXiv-2505.07457-009688.svg)](https://arxiv.org/abs/2505.07457) <br>
+
+> **Problem-Solving** <br>
+> Multi-Agent Collaboration Mechanisms: A Survey of LLMs [![arXiv](https://img.shields.io/badge/arXiv-2501.06322-009688.svg)](https://arxiv.org/abs/2501.06322) <br>
+> Simulating Strategic Reasoning: Comparing the Ability of Single LLMs and Multi-Agent Systems to Replicate Human Behavior [![arXiv](https://img.shields.io/badge/arXiv-2402.08189-009688.svg)](https://arxiv.org/abs/2402.08189) <br>
+> Review of Autonomous and Collaborative Agentic AI and Multi-Agent Systems for Enterprise Applications [![arXiv](https://img.shields.io/badge/researchgate-393232793-009688.svg)](https://www.researchgate.net/publication/393232793_Review_of_Autonomous_and_Collaborative_Agentic_AI_and_Multi-_Agent_Systems_for_Enterprise_Applications) <br>
+> Agentic Large Language Models: A Survey [![arXiv](https://img.shields.io/badge/arXiv-2503.23037-009688.svg)](https://arxiv.org/abs/2503.23037) <br>
 
 ### 📖Auto-Programming
 **Foundation-Oriented Programming:**
+> **Simple Programming Problems** <br>
+> AutoCoder: Enhancing code large language model with AIEV-INSTRUCT [![arXiv](https://img.shields.io/badge/arXiv-2405.14906-009688.svg)](https://arxiv.org/abs/2405.14906) <br>
+> INTERVENOR: Prompting the Coding Ability of Large Language Models with the Interactive Chain of Repair [![arXiv](https://img.shields.io/badge/arXiv-2311.09868-009688.svg)](https://arxiv.org/abs/2311.09868) <br>
+> AgentCoder: Multi-agent-based Code Generation with Iterative Testing and Optimisation [![arXiv](https://img.shields.io/badge/arXiv-2312.13010-009688.svg)](https://arxiv.org/abs/2312.13010) <br>
+> AgileCoder: Dynamic Collaborative Agents for Software Development based on Agile Methodology [![arXiv](https://img.shields.io/badge/arXiv-2406.11912-009688.svg)](https://arxiv.org/abs/2406.11912) <br>
+> AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation [![arXiv](https://img.shields.io/badge/arXiv-2308.08155-009688.svg)](https://arxiv.org/abs/2308.08155) <br>
+> Self-Organized Agents: A LLM Multi-Agent Framework Toward Ultra Large-Scale Code Generation and Optimization [![arXiv](https://img.shields.io/badge/arXiv-2404.02183-009688.svg)](https://arxiv.org/abs/2404.02183) <br>
+> Is Self-Repair a Silver Bullet for Code Generation? [![arXiv](https://img.shields.io/badge/arXiv-2306.09896-009688.svg)](https://arxiv.org/abs/2306.09896) <br>
+> Test-driven Development and LLM-based Code Generation [![arXiv](https://img.shields.io/badge/arXiv-2402.13521-009688.svg)](https://arxiv.org/abs/2402.13521) <br>
+
+> **Advanced Programming Problems** <br>
+> Autonomous Large Language Model Agents Enabling Intent-Driven Mobile GUI Testing [![arXiv](https://img.shields.io/badge/arXiv-2311.08649-009688.svg)](https://arxiv.org/abs/2311.08649) <br>
+> AxNav: Replaying Accessibility Tests from Natural Language  [![arXiv](https://img.shields.io/badge/arXiv-2310.02424-009688.svg)](https://arxiv.org/abs/2310.02424) <br>
+> RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-2310.16340-009688.svg)](https://arxiv.org/abs/2310.16340) <br>
+> AcFix: Guiding LLMs with Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts [![arXiv](https://img.shields.io/badge/arXiv-2403.06838-009688.svg)](https://arxiv.org/abs/2403.06838) <br>
+> Multi-Role Consensus Through LLMs Discussions for Vulnerability Detection [![arXiv](https://img.shields.io/badge/arXiv-2403.14274-009688.svg)](https://arxiv.org/abs/2403.14274) <br>
+> Measuring Coding Challenge Competence with APPS, NeurIPS Datasets and Benchmarks Track 2021 [![arXiv](https://img.shields.io/badge/arXiv-2311.08649-009688.svg)](https://arxiv.org/abs/2311.08649) <br>
+> XCodeEval: A Large Scale Multilingual Multitask Benchmark for Code Understanding, Generation, Translation and Retrieval [![arXiv](https://img.shields.io/badge/arXiv-2303.03004-009688.svg)](https://arxiv.org/abs/2303.03004) <br>
+> Codeforces [![Website](https://img.shields.io/badge/Web-Codeforces.com-blue.svg)](https://codeforces.com) <br>
+> LeetCode [![Website](https://img.shields.io/badge/Web-LeetCode.com-blue.svg)](https://leetcode.com) <br>
+> MapCoder: Multi-Agent Code Generation for Competitive Problem Solving [![arXiv](https://img.shields.io/badge/arXiv-2405.11403-009688.svg)](https://arxiv.org/abs/2405.11403) <br>
+> FLOWS: Building Blocks of Reasoning and Collaborating AI [![arXiv](https://img.shields.io/badge/arXiv-2308.01285-009688.svg)](https://arxiv.org/abs/2308.01285) <br>
+
 **Application-Oriented Programming:**
+> **Software Development** <br>
+> Software Development: Processes and Performance [![arXiv](https://img.shields.io/badge/researchgate-224101986-009688.svg)](https://www.researchgate.net/publication/224101986_Software_development_Processes_and_performance) <br>
+> Model-driven Development of Complex Software: A Research Roadmap [![arXiv](https://img.shields.io/badge/IEEE-4221611-009688.svg)](https://ieeexplore.ieee.org/document/4221611) <br>
+> Scaling Large-Language-Model-Based Multi-Agent Collaboration [![arXiv](https://img.shields.io/badge/arXiv-2406.07155-009688.svg)](https://arxiv.org/abs/2406.07155) <br>
+> Self-Collaboration Code Generation via ChatGPT [![DOI](https://img.shields.io/badge/DOI-10.1145/3672459-009688.svg)](https://doi.org/10.1145/3672459) <br>
+> Codepori: Large-scale System for Autonomous Software Development using Multi-Agent Technology [![arXiv](https://img.shields.io/badge/arXiv-2402.01411-009688.svg)](https://arxiv.org/abs/2402.01411) <br>
+> CodeAgent: Autonomous Communicative Agents for Code Review [![ACL](https://img.shields.io/badge/ACL-2024.emnlp--main.632-009688.svg)](https://aclanthology.org/2024.emnlp-main.632) <br>
+> Soen-101: Code Generation by Emulating Software Process Models using Large Language Model Agents [![arXiv](https://img.shields.io/badge/arXiv-2403.15852-009688.svg)](https://arxiv.org/abs/2403.15852) <br>
+> Prompting Large Language Models to Tackle the Full Software Development Lifecycle: A Case Study [![arXiv](https://img.shields.io/badge/arXiv-2403.08604-009688.svg)](https://arxiv.org/abs/2403.08604) <br>
+> Think-on-Process: Dynamic Process Generation for Collaborative Development of Multi-Agent System [![arXiv](https://img.shields.io/badge/arXiv-2409.06568-009688.svg)](https://arxiv.org/abs/2409.06568) <br>
+> Multi-Agent Software Development through Cross-Team Collaboration [![arXiv](https://img.shields.io/badge/arXiv-2406.08979-009688.svg)](https://arxiv.org/abs/2406.08979) <br>
+> Self-Evolving Multi-Agent Collaboration Networks for Software Development [![arXiv](https://img.shields.io/badge/arXiv-2410.16946-009688.svg)](https://arxiv.org/abs/2410.16946) <br>
+> Experiential Co-Learning of Software-Developing Agents [![ACL](https://img.shields.io/badge/ACL-2024.acl--long.305-009688.svg)](https://aclanthology.org/2024.acl-long.305) <br>
+> Iterative Experience Refinement of Software-Developing Agents [![arXiv](https://img.shields.io/badge/arXiv-2405.04219-009688.svg)](https://arxiv.org/abs/2405.04219) <br>
+> ChatDev: Communicative Agents for Software Development [![ACL](https://img.shields.io/badge/ACL-2024.acl--long.810-009688.svg)](https://aclanthology.org/2024.acl-long.810) <br>
+> A Systematic Approach to the Comparison of Roles in the Software Development Processes  
+SPICE [![arXiv](https://img.shields.io/badge/researchgate-259779091-009688.svg)](https://www.researchgate.net/figure/Our-Systematic-Approach-for-Investigating-the-Roles-in-Software-Development-Environments_fig1_259779091) <br>
+> Emphasizing Human Capabilities in Software Developmen [![arXiv](https://img.shields.io/badge/IEEE-1605185-009688.svg)](https://ieeexplore.ieee.org/document/1605185) <br>
+
+> **Algorithm Engineering** <br>
+> AutoKaggle: A Multi-Agent Framework for Autonomous Data Science Competitions [![arXiv](https://img.shields.io/badge/arXiv-2410.20424-009688.svg)](https://arxiv.org/abs/2410.20424) <br>
+> Data Interpreter: An LLM Agent for Data Science [![arXiv](https://img.shields.io/badge/arXiv-2402.18679-009688.svg)](https://arxiv.org/abs/2402.18679) <br>
+> PyBench: Evaluating LLM Agent on Various Real-World Coding Tasks [![arXiv](https://img.shields.io/badge/arXiv-2407.16732-009688.svg)](https://arxiv.org/abs/2407.16732) <br>
+> SELA: Tree-Search Enhanced LLM Agents for Automated Machine Learning [![arXiv](https://img.shields.io/badge/arXiv-2410.17238-009688.svg)](https://arxiv.org/abs/2410.17238) <br>
+> AutoML-Agent: A Multi-Agent LLM Framework for Full-Pipeline AutoML [![arXiv](https://img.shields.io/badge/arXiv-2410.02958-009688.svg)](https://arxiv.org/abs/2410.02958) <br>
 
 ### 📖GUI Operations
 **Prompting-Based Methods:**
+> **Single-Modal-Based** <br>
+> Mobile-Agent-E: Self-evolving Mobile Assistant for Complex Tasks [![arXiv](https://img.shields.io/badge/arXiv-2501.11733-009688.svg)](https://arxiv.org/abs/2501.11733) <br>
+> MobileExperts: A Dynamic Tool-enabled Agent Team in Mobile Devices [![arXiv](https://img.shields.io/badge/arXiv-2407.03913-009688.svg)](https://arxiv.org/abs/2407.03913) <br>
+> Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-agent Collaboration [![arXiv](https://img.shields.io/badge/arXiv-2406.01014-009688.svg)](https://arxiv.org/abs/2406.01014) <br>
+> WebPilot: A Versatile and Autonomous Multi-agent System for Web Task Execution with Strategic Exploration [![arXiv](https://img.shields.io/badge/arXiv-2408.15978-009688.svg)](https://arxiv.org/abs/2408.15978) <br>
+> CoLA: A Scalable Multi-agent Framework for Windows UI Task Automation [![arXiv](https://img.shields.io/badge/arXiv-2503.09263-009688.svg)](https://arxiv.org/abs/2503.09263) <br>
+
+> **Multi-Modal-Based** <br>
+> Mobile-agent-v: Learning mobile device operation through videoguided multi-agent collaboration  [![arXiv](https://img.shields.io/badge/arXiv-2502.17110-009688.svg)](https://arxiv.org/abs/2408.15978) <br>
+> Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-agent Collaboration [![arXiv](https://img.shields.io/badge/arXiv-2406.01014-009688.svg)](https://arxiv.org/abs/2406.01014) <br>
+
 **Tuning-Based Methods:**
+> **SFT-Based** <br>
+> Octo-Planner: On-device Language Model for Planner-Action Agents [![arXiv](https://img.shields.io/badge/arXiv-2406.18082-009688.svg)](https://arxiv.org/abs/2406.18082) <br>
+> PC Agent: While You Sleep, AI Works – A Cognitive Journey into Digital World [![arXiv](https://img.shields.io/badge/arXiv-2412.17589-009688.svg)](https://arxiv.org/abs/2412.17589) <br>
+
+> **RL-Based** <br>
+> MARLUI: Multi-agent Reinforcement Learning for Adaptive Point-and-Click UIs [![arXiv](https://img.shields.io/badge/arXiv-2209.12660-009688.svg)](https://arxiv.org/abs/2209.12660) <br>
+> WebRL: Training LLM Web Agents via Self-evolving Online Curriculum Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-2411.02337-009688.svg)](https://arxiv.org/abs/2411.02337) <br>
 
 ### 📖Game Theory and Interactive Games
 **Application in Game Theory:**
+> **Behavior Evaluation** <br>
+> Economics Arena for Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-2401.01735-009688.svg)](https://arxiv.org/abs/2401.01735) <br>
+> Can Large Language Model Agents Simulate Human Trust Behaviors? [![ICLR](https://img.shields.io/badge/NIPS-proceedings-009688.svg)](https://proceedings.neurips.cc/paper_files/paper/2024/file/1cb57fcf7ff3f6d37eebae5becc9ea6d-Paper-Conference.pdf) <br>
+> Can Large Language Models Serve as Rational Players in Game Theory? A Systematic Analysis [![arXiv](https://img.shields.io/badge/arXiv-2312.05488-009688.svg)](https://arxiv.org/abs/2312.05488) <br>
+> Playing Games with GPT: What Can We Learn About a Large Language Model from Canonical Strategic Games? [![SSRN](https://img.shields.io/badge/SSRN-4493398-009688.svg)](https://ssrn.com/abstract=4493398) <br>
+> Playing Repeated Games with Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-2305.16867-009688.svg)](https://arxiv.org/abs/2305.16867) <br>
+> Investigating Emergent Goal-like Behaviour in Large Language Models using Experimental Economics [![arXiv](https://img.shields.io/badge/arXiv-2305.07970-009688.svg)](https://arxiv.org/abs/2305.07970) <br>
+> Simulating Strategic Reasoning: Comparing the Ability of Single LLMs and Multi-Agent Systems to Replicate Human Behavior [![arXiv](https://img.shields.io/badge/arXiv-2402.08189-009688.svg)](https://arxiv.org/abs/2402.08189) <br>
+
+> **Scenario Application** <br>
+> Static Network Structure Cannot Stabilize Cooperation Among Large Language Model Agents [![arXiv](https://img.shields.io/badge/arXiv-2411.10294-009688.svg)](https://arxiv.org/abs/2411.10294) <br>
+> Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies [![ICML](https://img.shields.io/badge/ICML-2023-009688.svg)](https://proceedings.mlr.press/v202/aher23a.html) <br>
+> The Dynamics of Social Conventions in LLM Populations: Spontaneous Emergence, Collective Biases and Tipping Points [![arXiv](https://img.shields.io/badge/arXiv-2410.08948-009688.svg)](https://arxiv.org/abs/2410.08948) <br>
+> Large Language Models Overcome the Machine Penalty When Acting Fairly but Not When Acting Selfishly or Altruistically [![arXiv](https://img.shields.io/badge/arXiv-2410.03724-009688.svg)](https://arxiv.org/abs/2410.03724) <br>
+> Take Caution in Using LLMs as Human Surrogates [![PNAS](https://img.shields.io/badge/PNAS-10.1073/pnas.2501660122-009688.svg)](https://doi.org/10.1073/pnas.2501660122) <br>
+> Game-Theoretic LLM: Agent Workflow for Negotiation Games [![arXiv](https://img.shields.io/badge/arXiv-2411.05990-009688.svg)](https://arxiv.org/abs/2411.05990) <br>
+> Large language models as simulated economic agents: What can we learn from homo silicus? [![arXiv](https://img.shields.io/badge/arXiv-2301.07543-009688.svg)](https://arxiv.org/abs/2301.07543) <br>
+
+> **Capability Enhancement** <br>
+> Game-Theoretic LLM: Agent Workflow for Negotiation Games [![arXiv](https://img.shields.io/badge/arXiv-2411.05990-009688.svg)](https://arxiv.org/abs/2411.05990) <br>
+> ALympics: Language Agents Meet Game Theory [![arXiv](https://img.shields.io/badge/arXiv-2311.03220-009688.svg)](https://arxiv.org/abs/2311.03220) <br>
+> Strategic Reasoning with Language Models [![arXiv](https://img.shields.io/badge/arXiv-2305.19165-009688.svg)](https://arxiv.org/abs/2305.19165) <br>
+> Steering Language Models with Game-Theoretic Solvers [![arXiv](https://img.shields.io/badge/arXiv-2402.01704-009688.svg)](https://arxiv.org/abs/2402.01704) <br>
+
 **Application in Interactive Games:**
+> **Constrained Interaction Environments** <br>
+> Keep Calm and Explore: Language Models for Action Generation in Text-Based Games [![arXiv](https://img.shields.io/badge/arXiv-2010.02903-009688.svg)](https://arxiv.org/abs/2010.02903) <br>
+> ReAct: Synergizing Reasoning and Acting in Language Models [![arXiv](https://img.shields.io/badge/arXiv-2210.03629-009688.svg)](https://arxiv.org/abs/2210.03629) <br>
+> SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks [![arXiv](https://img.shields.io/badge/arXiv-2305.17390-009688.svg)](https://arxiv.org/abs/2305.17390) <br>
+> AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents [![arXiv](https://img.shields.io/badge/arXiv-2407.04363-009688.svg)](https://arxiv.org/abs/2407.04363) <br>
+> ChessGPT: Bridging Policy Learning and Language Modeling [![arXiv](https://img.shields.io/badge/arXiv-2306.09200-009688.svg)](https://arxiv.org/abs/2306.09200) <br>
+> PokerBench: Training Large Language Models to Become Professional Poker Players [![arXiv](https://img.shields.io/badge/arXiv-2501.08328-009688.svg)](https://arxiv.org/abs/2501.08328) <br>
+
+> **Open-ended Interaction Environments** <br>
+> Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks [![arXiv](https://img.shields.io/badge/arXiv-2303.16563-009688.svg)](https://arxiv.org/abs/2303.16563) <br>
+> Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents [![arXiv](https://img.shields.io/badge/arXiv-2302.01560-009688.svg)](https://arxiv.org/abs/2302.01560) <br>
+> MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control [![arXiv](https://img.shields.io/badge/arXiv-2403.12037-009688.svg)](https://arxiv.org/abs/2403.12037) <br>
+> MP5: A Multi-Modal Open-Ended Embodied System in Minecraft via Active Perception [![arXiv](https://img.shields.io/badge/arXiv-2312.07472-009688.svg)](https://arxiv.org/abs/2312.07472) <br>
+> Llama Rider: Spurring Large Language Models to Explore the Open World [![arXiv](https://img.shields.io/badge/arXiv-2310.08922-009688.svg)](https://arxiv.org/abs/2310.08922) <br>
+> Odyssey: Empowering Agents with Open-World Skills [![arXiv](https://img.shields.io/badge/arXiv-2407.15325-009688.svg)](https://arxiv.org/abs/2407.15325) <br>
+> Motif: Intrinsic Motivation from Artificial Intelligence Feedback [![arXiv](https://img.shields.io/badge/arXiv-2310.00166-009688.svg)](https://arxiv.org/abs/2310.00166) <br>
+> Voyager: An Open-Ended Embodied Agent with Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-2305.16291-009688.svg)](https://arxiv.org/abs/2305.16291) <br>
 
 ## 📗Collective Intelligence 4.0 Era
