@@ -57,6 +57,9 @@ Collective intelligence (CI) has emerged as a cornerstone for advancing toward A
      - [Application in Game Theory](#Application-in-Game-Theory)
      - [Application in Interactive Games](#Application-in-Interactive-Games)
 - [Collective Intelligence 4.0 Era](#future-challenges)
+  - [SAIL THE WAY TO THE INTELLIGENCE FUTURE](#SAIL-THE-WAY-TO-THE-INTELLIGENCE-FUTURE)
+  - [Major Scientific Problems](#Major-Scientific-Problems)
+- [Conclusion](#conclusion)
 
 ## 🧬Evolution of Collective Intelligence
 ![CI Framework](https://github.com/d-andelions/awesome-LLM-Driven-Collective-Intelligence/blob/main/figs/1.png)
