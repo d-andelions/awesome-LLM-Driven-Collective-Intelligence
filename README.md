@@ -3,11 +3,13 @@ Collective intelligence (CI) has emerged as a cornerstone for advancing toward A
 
 > 📚 A curated list of awesome resources for **Collective Intelligence/Multi-Agent System**.
 
+<div align="center">
 ![GitHub Repo stars](https://img.shields.io/github/stars/d-andelions/awesome-LLM-Driven-Collective-Intelligence?color=yellow&cacheSeconds=60)
 ![GitHub forks](https://img.shields.io/github/forks/d-andelions/awesome-LLM-Driven-Collective-Intelligence?color=lightblue)
 ![GitHub last commit](https://img.shields.io/github/last-commit/d-andelions/awesome-LLM-Driven-Collective-Intelligence?color=green)
 [![OurWork](https://img.shields.io/badge/researchgate-OurWork-blue.svg)]([https://link.springer.com/chapter/10.1007/978-3-642-21434-9_8](https://www.researchgate.net/publication/395091975_A_Comprehensive_Survey_of_LLM-Driven_Collective_Intelligence_Past_Present_and_Future)) <br>
 
+</div>
 
 ## 📂 Contents
 > 
