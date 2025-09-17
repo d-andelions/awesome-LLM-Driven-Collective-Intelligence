@@ -26,10 +26,7 @@ Collective intelligence (CI) has emerged as a cornerstone for advancing toward A
     - [Parameter-Efficient Fine-Tuning (PEFT)](#parameter-efficient-fine-tuning-(PEFT))
     - [LLM-Based Agents](#llm-based-agents)
   - [LLM-based Collective Intelligence](#llm-based-collective-intelligence)
-- [Collective Intelligence 1.0 and 2.0 Era](#collective-intelligence-1.0-and-2.0-era)
-  - [Collective Intelligence 1.0 Era](#collective-intelligence-1.0-era)
-  - [Collective Intelligence 2.0 Era](#collective-intelligence-2.0-era)
-- [Collective Intelligence 3.0 Era](#application-oriented-ci)
+- [LLM Driven Foundation-Oriented Collective Intelligence](#LLM-Driven-Foundation-Oriented-Collective-Intelligence)
   - [Data-Level Enhancement](#data-level-enhancement)
      - [Same LLM Driven](#Same-LLM-Driven)
      - [Different LLM Driven](#Different-LLM-Driven)
@@ -61,8 +58,8 @@ Collective intelligence (CI) has emerged as a cornerstone for advancing toward A
   - [Game Theory and Interactive Games](#Game-Theory-and-Interactive-Games)
      - [Application in Game Theory](#Application-in-Game-Theory)
      - [Application in Interactive Games](#Application-in-Interactive-Games)
-- [Collective Intelligence 4.0 Era](#future-challenges)
-  - [SAIL THE WAY TO THE INTELLIGENCE FUTURE](#SAIL-THE-WAY-TO-THE-INTELLIGENCE-FUTURE)
+- [Sail The Way To The Intelligence Future](#Sail-The-Way-To-The-Intelligence-Future)
+  - [Future Technology Outlook](#Future-Technology-Outlook)
   - [Major Scientific Problems](#Major-Scientific-Problems)
 - [Conclusion](#conclusion)
 
@@ -78,7 +75,22 @@ Currently, we are witnessing the emergence and popularity of the **Collective In
 
 In the future, as artificial intelligence continues to progress, it will encounter more intricate and even unexplored real-world tasks and scenarios. Thus, there is an urgent necessity to transition to the **Collective Intelligence 4.0 Era**, whose core is the establishment of a novel paradigm known as _Collectively to Create Intelligence_."
 
-## 📘Key Techniques of Large Language Models
+**Collective Intelligence 1.0 Era:** Complex group behaviors can emerge from simple interaction rules.
+> Swarm intelligence: from natural to artificial systems [![arXiv](https://img.shields.io/badge/Oxford-40811-009688.svg)](https://academic.oup.com/book/40811) <br>
+> Ant colony optimization: a new metaheuristic [![arXiv](https://img.shields.io/badge/IEEE-782657-009688.svg)](https://ieeexplore.ieee.org/document/782657) <br>
+> Particle swarm optimization [![arXiv](https://img.shields.io/badge/IEEE-488968-009688.svg)](https://ieeexplore.ieee.org/abstract/document/488968) <br>
+> Aco algorithms for the traveling salesman problem [![arXiv](https://img.shields.io/badge/ResearchGate-2771967-009688.svg)](https://www.researchgate.net/publication/2771967_ACO_Algorithms_for_the_Traveling_Salesman_Problem) <br>
+> A modified particle swarm optimizer [![arXiv](https://img.shields.io/badge/IEEE-699146-009688.svg)](https://ieeexplore.ieee.org/document/699146) <br>
+
+**Collective Intelligence 2.0 Era:** The Collective Intelligence 2.0 Era marked a significant advancement through the development of specialized multi-agent architectures.
+> Multi-agent architectures as organizational structures [![arXiv](https://img.shields.io/badge/springer-10.1007-009688.svg)](https://link.springer.com/article/10.1007/s10458-006-5717-6) <br>
+> Parameter adaptation in ant colony optimization [![arXiv](https://img.shields.io/badge/springer-10.1007-009688.svg)](https://link.springer.com/chapter/10.1007/978-3-642-21434-9_8) <br>
+> Swarm intelligence and evolutionary computation [![arXiv](https://img.shields.io/badge/sciencedirect-journal-009688.svg)](https://www.sciencedirect.com/journal/swarm-and-evolutionary-computation) <br>
+> Distributed algorithms for multi-robot observation of multiple moving targets [![arXiv](https://img.shields.io/badge/springer-10.1023-009688.svg)](https://link.springer.com/article/10.1023/A:1015256330750) <br>
+> Wireless sensor network survey [![arXiv](https://img.shields.io/badge/sciencedirect-article-009688.svg)](https://www.sciencedirect.com/science/article/pii/S1389128608001254) <br>
+
+## 📘Preliminary
+### 📖Key Techniques of Large Language Models
 **Pre-Training:** Pre-training serves as the foundational stage in LLM development, where models acquire general language understanding capabilities by predicting the next token from massive unlabeled text corpora.
 > A Law of Next-Token Prediction in Large Language Models <a href="https://arxiv.org/abs/2408.13442"><img src="https://img.shields.io/badge/arXiv-2408.13442-009688.svg" alt="arXiv" /></a> <br>
 > Efficient training of language models with compact and consistent next token distributions <a href="https://arxiv.org/abs/2407.02819"><img src="https://img.shields.io/badge/arXiv-2407.02819-009688.svg" alt="arXiv" /></a> <br>
@@ -116,29 +128,14 @@ In the future, as artificial intelligence continues to progress, it will encount
 **LLM-Based Agents:** LLM-based agents represent a transformative evolution of LLMs, enabling them to function as autonomous entities capable of perceiving environments, reasoning, and executing actions.
 > Toolformer: Language models can teach themselves to use tools [![arXiv](https://img.shields.io/badge/arXiv-2302.04761-009688.svg)](https://arxiv.org/abs/2302.04761) <br>
 
-## 📙LLM-based Collective Intelligence
+### 📖LLM-based Collective Intelligence
 ![CI Framework](https://github.com/d-andelions/awesome-LLM-Driven-Collective-Intelligence/blob/main/figs/3.png)
 > Donod: Robust and generalizable instruction fine-tuning for llms via modelintrinsic dataset pruning [![arXiv](https://img.shields.io/badge/arXiv-2504.14810v1-009688.svg)](https://arxiv.org/html/2504.14810v1) <br>
 > Switch transformers: Scaling to trillion parameter models with simple and efficient sparsity [![arXiv](https://img.shields.io/badge/arXiv-2101.03961-009688.svg)](https://arxiv.org/abs/2101.03961) <br>
 > Tree of thoughts: Deliberate problem solving with large language models [![arXiv](https://img.shields.io/badge/arXiv-2212.10001-009688.svg)](https://arxiv.org/abs/2212.10001) <br>
 > Generative agents: Interactive simulacra of human behavior [![arXiv](https://img.shields.io/badge/arXiv-2304.03442-009688.svg)](https://arxiv.org/abs/2304.03442) <br>
 
-## 📗Collective Intelligence 1.0 and 2.0 Era
-**Collective Intelligence 1.0 Era:** Complex group behaviors can emerge from simple interaction rules.
-> Swarm intelligence: from natural to artificial systems [![arXiv](https://img.shields.io/badge/Oxford-40811-009688.svg)](https://academic.oup.com/book/40811) <br>
-> Ant colony optimization: a new metaheuristic [![arXiv](https://img.shields.io/badge/IEEE-782657-009688.svg)](https://ieeexplore.ieee.org/document/782657) <br>
-> Particle swarm optimization [![arXiv](https://img.shields.io/badge/IEEE-488968-009688.svg)](https://ieeexplore.ieee.org/abstract/document/488968) <br>
-> Aco algorithms for the traveling salesman problem [![arXiv](https://img.shields.io/badge/ResearchGate-2771967-009688.svg)](https://www.researchgate.net/publication/2771967_ACO_Algorithms_for_the_Traveling_Salesman_Problem) <br>
-> A modified particle swarm optimizer [![arXiv](https://img.shields.io/badge/IEEE-699146-009688.svg)](https://ieeexplore.ieee.org/document/699146) <br>
-
-**Collective Intelligence 2.0 Era:** The Collective Intelligence 2.0 Era marked a significant advancement through the development of specialized multi-agent architectures.
-> Multi-agent architectures as organizational structures [![arXiv](https://img.shields.io/badge/springer-10.1007-009688.svg)](https://link.springer.com/article/10.1007/s10458-006-5717-6) <br>
-> Parameter adaptation in ant colony optimization [![arXiv](https://img.shields.io/badge/springer-10.1007-009688.svg)](https://link.springer.com/chapter/10.1007/978-3-642-21434-9_8) <br>
-> Swarm intelligence and evolutionary computation [![arXiv](https://img.shields.io/badge/sciencedirect-journal-009688.svg)](https://www.sciencedirect.com/journal/swarm-and-evolutionary-computation) <br>
-> Distributed algorithms for multi-robot observation of multiple moving targets [![arXiv](https://img.shields.io/badge/springer-10.1023-009688.svg)](https://link.springer.com/article/10.1023/A:1015256330750) <br>
-> Wireless sensor network survey [![arXiv](https://img.shields.io/badge/sciencedirect-article-009688.svg)](https://www.sciencedirect.com/science/article/pii/S1389128608001254) <br>
-
-## 📘Collective Intelligence 3.0 Era
+## 📘LLM Driven Foundation-Oriented Collective Intelligence
 ![Figure 4](https://github.com/d-andelions/awesome-LLM-Driven-Collective-Intelligence/blob/main/figs/4.png)
 ### 📖Data-Level Enhancement
 **Same LLM Driven:**
@@ -600,9 +597,9 @@ SPICE [![arXiv](https://img.shields.io/badge/researchgate-259779091-009688.svg)]
 > Motif: Intrinsic Motivation from Artificial Intelligence Feedback [![arXiv](https://img.shields.io/badge/arXiv-2310.00166-009688.svg)](https://arxiv.org/abs/2310.00166) <br>
 > Voyager: An Open-Ended Embodied Agent with Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-2305.16291-009688.svg)](https://arxiv.org/abs/2305.16291) <br>
 
-## 📗Collective Intelligence 4.0 Era
+## 📗Sail The Way To The Intelligence Future
 ![Figure 6](https://github.com/d-andelions/awesome-LLM-Driven-Collective-Intelligence/blob/main/figs/6.png)
-### 🚢SAIL THE WAY TO THE INTELLIGENCE FUTURE
+### 🚢Future Technology Outlook
 **Construction of Fundamental Capabilities** <br>
 > PacelLM: Brain-Inspired Large Language Models for Long-Context Understanding [![arXiv](https://img.shields.io/badge/arXiv-2506.17310-009688.svg)](https://arxiv.org/abs/2506.17310) <br>
 > Dynamic Skill Adaptation for Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-2412.19361-009688.svg)](https://arxiv.org/abs/2412.19361) <br>
