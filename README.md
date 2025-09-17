@@ -6,7 +6,8 @@ Collective intelligence (CI) has emerged as a cornerstone for advancing toward A
 ![GitHub Repo stars](https://img.shields.io/github/stars/d-andelions/awesome-LLM-Driven-Collective-Intelligence?color=yellow&cacheSeconds=60)
 ![GitHub forks](https://img.shields.io/github/forks/d-andelions/awesome-LLM-Driven-Collective-Intelligence?color=lightblue)
 ![GitHub last commit](https://img.shields.io/github/last-commit/d-andelions/awesome-LLM-Driven-Collective-Intelligence?color=green)
-<!-- <a href="https://arxiv.org/abs/2509.02350" target="_blank"><img src="https://img.shields.io/badge/arXiv-2509.02350-009688.svg" alt="arXiv" /></a> -->
+[![OurWork](https://img.shields.io/badge/researchgate-OurWOrk-009688.svg)]([https://link.springer.com/chapter/10.1007/978-3-642-21434-9_8](https://www.researchgate.net/publication/395091975_A_Comprehensive_Survey_of_LLM-Driven_Collective_Intelligence_Past_Present_and_Future)) <br>
+
 
 ## 📂 Contents
 > 
