@@ -650,9 +650,9 @@ SPICE [![arXiv](https://img.shields.io/badge/researchgate-259779091-009688.svg)]
 ## 📚Citation
 
 ```
-@article{jiang2025comprehensive,
+@article{ye2025comprehensive,
   title={A Comprehensive Survey of LLM-Driven Collective Intelligence: Past, Present, and Future},
-  author={JIANG, YICHEN and YANG, SUORONG and TANG, SHENGJI and ZHENG, SHENGHE and CAO, JIANJIAN},
+  author={YE, PENG and JIANG, YICHEN and YANG, SUORONG and TANG, SHENGJI and ZHENG, SHENGHE and CAO, JIANJIAN},
   year={2025}
 }
 ```
