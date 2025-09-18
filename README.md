@@ -652,7 +652,7 @@ SPICE [![arXiv](https://img.shields.io/badge/researchgate-259779091-009688.svg)]
 ```
 @article{ye2025comprehensive,
   title={A Comprehensive Survey of LLM-Driven Collective Intelligence: Past, Present, and Future},
-  author={YE, PENG and JIANG, YICHEN and YANG, SUORONG and TANG, SHENGJI and ZHENG, SHENGHE and CAO, JIANJIAN},
+  author={YE, PENG and JIANG, YICHEN and YANG, SUORONG and TANG, SHENGJI and ZHENG, SHENGHE and CAO, JIANJIAN and REN, SIYUE and DOU, ZHIHAO and WANG, WEIDA and HE, HAONAN and LI, HAO and CUI, ZHIYAO and ZHONG, ZHIJIE and WU, MENGSONG and ZHANG, SHUIFEI and ZHOU, DONGZHA and ZHANG, BO and HU, SHUYUE and CHEN, TAO and WU, WENJUN and OUYANG, WANLI and BAI, LEI},
   year={2025}
 }
 ```
